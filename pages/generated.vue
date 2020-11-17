@@ -25,14 +25,14 @@
 
     <span
       class="title font-weight-medium color-blue subtitle-main d-flex justify-center"
-      >NOVOS CASOS EM TIME LAPSE</span
+      >GRÁFICO COM A EVOLUÇÃO DO NÚMERO DE CASOS DIAGNOSTICADOS</span
     >
     <v-card
       class="mt-4"
       width="100%"
       :height="!$vuetify.breakpoint.xs ? '800px' : '200px'"
     >
-      <CasesTimeLapse />
+      <CardCasesEvolution />
     </v-card>
      <br />
     <span
