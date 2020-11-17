@@ -31,11 +31,12 @@
             <img
               src="~/assets/logo/fig.png"
               style="width: 140%; height: 140%;"
+              alt="Site logo png."
             />
           </v-list-item-avatar>
 
           <v-list-item-content class="pr-8">
-            <img src="~/assets/logo/write.svg" style="width: 80%;" />
+            <img src="~/assets/logo/write.svg" style="width: 80%;" alt="Site logo svg."/>
           </v-list-item-content>
         </v-list-item>
 
