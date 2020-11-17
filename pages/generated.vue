@@ -16,7 +16,7 @@
       A seguir são apresentados gráficos e mapas gerados pelo projeto disponíveis para visualização e download.
     </p>
     <p class="body-2 text-justify">
-      Na visualização para os mapas, encontran-se as pastas relativas a cada mês, e nelas estão contidas os mapas 
+      Na visualização para os mapas, encontram-se as pastas relativas a cada mês, e nelas estão contidos os mapas 
       de novos casos diagnosticados e de casos acumulados para cada dia do respectivo mês.
     </p>
     <br />
@@ -31,7 +31,7 @@
       width="100%"
       :height="!$vuetify.breakpoint.xs ? '800px' : '200px'"
     >
-      <CardCasesEvolution />
+      <IframeCasesEvolution />
     </v-card>
      <br />
     <span
@@ -39,7 +39,7 @@
       >MAPAS DE CASOS DISPONÍVEIS PARA DOWNLOAD</span
     >
     <v-card class="mt-4" width="100%" height="800px">
-      <CardMapsFiles />
+      <IframeMapsFiles />
     </v-card>
   </div>
 </template>
