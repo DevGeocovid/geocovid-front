@@ -1,11 +1,7 @@
 <template>
   <v-card class="rounded-lg" style="height: 600px;">
     <iframe
-      style="width: 100%; height: 600px;"
-      frameborder="0"
-      scrolling="no"
-      marginheight="0"
-      marginwidth="0"
+      style="width: 100%; height: 600px; border: none"
       title="Casos Diagnosticados de Covid 19 para o Espírito Santo"
       :src="
         !$vuetify.breakpoint.xs
