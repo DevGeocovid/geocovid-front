@@ -1,7 +1,7 @@
 <template>
   <v-row xs12 :style="$vuetify.breakpoint.xs ? 'padding-top:60px;' : ''">
     <v-col :cols="$vuetify.breakpoint.xs ? '12' : '8'">
-      <Map />
+      <IframeMainMap />
     </v-col>
     <v-col class="pt-0">
       <v-row>
