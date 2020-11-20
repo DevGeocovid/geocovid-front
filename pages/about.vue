@@ -4,7 +4,8 @@
     :style="$vuetify.breakpoint.xs ? 'padding-top:120px' : ''"
   >
     <span class="display-3 font-weight-medium color-blue">
-      Entenda o projeto Geocovid
+      Entenda tudo <br />
+      sobre o GeoCovid
     </span>
     <br />
     <br />

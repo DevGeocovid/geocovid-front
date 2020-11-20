@@ -10,15 +10,11 @@
     <br />
     <br />
     <p class="body-2 text-justify">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. A dolore impedit
-      mollitia, itaque sapiente facilis ut, odio ducimus, veniam provident
-      deserunt alias aspernatur. Suscipit, et laborum aut provident saepe vero.
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum ipsam sunt
-      sed vero eum beatae eos ad assumenda, sapiente, praesentium delectus
-      inventore aperiam perspiciatis odit quaerat enim et adipisci voluptate!
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum ipsam sunt
-      sed vero eum beatae eos ad assumenda, sapiente, praesentium delectus
-      inventore aperiam perspiciatis odit quaerat enim et adipisci voluptate!
+      A seguir são apresentados gráficos e mapas gerados pelo projeto
+      disponíveis para visualização e download.
+      Na visualização para os mapas, encontram-se as pastas relativas a cada
+      mês, e nelas estão contidos os mapas de novos casos diagnosticados e de
+      casos acumulados para cada dia do respectivo mês.
     </p>
     <br />
     <br />
