@@ -29,12 +29,21 @@
       class="d-flex justify-center primary rounded-lg px-12 mt-4 py-1"
       style="position: absolute;"
     >
-      <span class="title white--text"
-        >{{ selected.title }}
-        <v-icon @click="openDialog = true" size="30" color="white" class="ml-2"
-          >mdi-menu-down</v-icon
-        ></span
-      >
+      <span class="title white--text">{{ selected.title }}</span>
+      <v-tooltip bottom>
+        <template v-slot:activator="{ on, attrs }">
+          <v-icon
+            @click="openDialog = true"
+            size="30"
+            color="white"
+            class="ml-2"
+            v-bind="attrs"
+            v-on="on"
+            >mdi-menu-down</v-icon
+          >
+        </template>
+        <span>Alterne entre os mapas </span>
+      </v-tooltip>
     </div>
     <v-dialog width="400" v-model="openDialog">
       <v-card>
