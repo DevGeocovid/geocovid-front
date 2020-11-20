@@ -17,7 +17,7 @@
             <CardInformation
               class="mt-4"
               title="Casos descartados"
-              :information="informations.refuses"
+              :information="informations.refused"
               typeInformation="refuses"
             />
           </v-row>
@@ -40,7 +40,7 @@
           <div class="mt-1 d-flex justify-end">
             <h6>
               Dados atualizados até o dia
-              {{ informations.datetime | formatDateTime }}
+              {{ informations.date_register | formatDateTime }}
             </h6>
           </div>
         </v-col>
@@ -72,7 +72,7 @@ export default {
     async getInformations() {
       try {
         const informations = await this.$axios.$get(
-          'https://covid19-brazil-api.now.sh/api/report/v1/brazil/uf/es'
+          'https://api-bootcovides.herokuapp.com/information/last'
         )
         Object.assign(this, { informations })
       } catch (e) {
