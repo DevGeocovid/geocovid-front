@@ -10,34 +10,52 @@
     <br />
     <br />
 
-    <p class="body-2 text-justify">
-      De acordo com o Ministério da Saúde (2020) o Brasil confirmou em 13 de
-      maio de 2020, 188.974 casos de COVID-19 e 13.149 óbitos, possui taxa de
-      letalidade de 7%, ocupando a nona posição no ranking mundial da
-      Organização Mundial da Saúde. No Espírito Santo, na mesma data,
-      confirmaram-se 5.401 casos, com 233 óbitos, com taxa de letalidade de
-      aproximadamente 4,3% (PAINELCOVID19ES, 2020). O Governo do Espírito Santo
-      adotou um Mapa de Gestão de Risco para estabelecer medidas direcionadas
-      para cada município, porém leva-se em consideração somente algumas
-      estatísticas, classificando os municípios em Baixo, Moderado e Alto risco.
-      Diferente do que vem sendo feito, esse projeto propõe o estudo do
-      comportamento da dispersão da doença, o vetor de crescimento, a densidade
-      de casos confirmados e associando a isso a vulnerabilidade social de
-      alguns municípios selecionados, podendo revelar uma tendência temporal da
-      prevalência de contaminação. O monitoramento da evolução espacial do
-      Covid-19 é de suma importância para auxiliar na tomada de decisões quanto
-      às ações para contenção da contaminação, planejamento da gestão de
-      recursos e na movimentação de profissionais para áreas com maior
-      vulnerabilidade. Assim, através do banco de dados disponibilizado pelo
-      Painel COVID-19-Espírito Santo serão elaborados mapas atualizados
-      periodicamente, que serão úteis para indicar a tendência de contaminação
-      no estado, munindo os gestores de ferramenta para tomada de decisões em
-      alvos potenciais e preferenciais de políticas públicas. Como não podemos
-      recolher amostras na população inteira, estes mapas podem ser úteis para
-      indicar locais a serem amostrados de forma mais racional e decidir que
-      regiões estão mais ou menos preparadas para sair do isolamento de forma
-      estratificada.
-    </p>
+    <ul>
+      <li>
+        <p class="body-2 text-justify">
+          De acordo com o Ministério da Saúde (2020) o Brasil confirmou em 13 de
+          maio de 2020, 188.974 casos de COVID-19 e 13.149 óbitos, possui taxa
+          de letalidade de 7%, ocupando a nona posição no ranking mundial da
+          Organização Mundial da Saúde. No Espírito Santo, na mesma data,
+          confirmaram-se 5.401 casos, com 233 óbitos, com taxa de letalidade de
+          aproximadamente 4,3% (PAINELCOVID19ES, 2020). O Governo do Espírito
+          Santo adotou um Mapa de Gestão de Risco para estabelecer medidas
+          direcionadas para cada município, porém leva-se em consideração
+          somente algumas estatísticas, classificando os municípios em Baixo,
+          Moderado e Alto risco.
+        </p>
+      </li>
+      <li>
+        <p class="body-2 text-justify">
+          Diferente do que vem sendo feito, esse projeto propõe o estudo do
+          comportamento da dispersão da doença, o vetor de crescimento, a
+          densidade de casos confirmados e associando a isso a vulnerabilidade
+          social de alguns municípios selecionados, podendo revelar uma
+          tendência temporal da prevalência de contaminação.
+        </p>
+      </li>
+      <li>
+        <p class="body-2 text-justify">
+          O monitoramento da evolução espacial do Covid-19 é de suma importância
+          para auxiliar na tomada de decisões quanto às ações para contenção da
+          contaminação, planejamento da gestão de recursos e na movimentação de
+          profissionais para áreas com maior vulnerabilidade.
+        </p>
+      </li>
+      <li>
+        <p class="body-2 text-justify">
+          Assim, através do banco de dados disponibilizado pelo Painel
+          COVID-19-Espírito Santo serão elaborados mapas atualizados
+          periodicamente, que serão úteis para indicar a tendência de
+          contaminação no estado, munindo os gestores de ferramenta para tomada
+          de decisões em alvos potenciais e preferenciais de políticas públicas.
+          Como não podemos recolher amostras na população inteira, estes mapas
+          podem ser úteis para indicar locais a serem amostrados de forma mais
+          racional e decidir que regiões estão mais ou menos preparadas para
+          sair do isolamento de forma estratificada.
+        </p>
+      </li>
+    </ul>
 
     <br />
     <br />
