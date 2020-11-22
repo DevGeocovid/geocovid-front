@@ -93,7 +93,7 @@ export default {
     getUrl(type) {
       if (type === 'vulnerabilited') {
         this.selected.title = 'Mapa de vulnerabilidade'
-        return `//willian-cqueiroz.maps.arcgis.com/apps/Embed/index.html?webmap=fbbe01fd15dc4779aa64998a557c92b6&extent=-43.2381,-21.262,-37.1736,-17.9037&zoom=true&previewImage=false&scale=true&details=true&legend=true&active_panel=details&disable_scroll=${this.$vuetify.breakpoint.xs}&theme=dark`
+        return `//willian-cqueiroz.maps.arcgis.com/apps/Embed/index.html?webmap=fbbe01fd15dc4779aa64998a557c92b6&extent=-43.2381,-21.262,-37.1736,-17.9037&zoom=true&previewImage=true&scale=true&details=true&legend=true&active_panel=details&disable_scroll=${this.$vuetify.breakpoint.xs}&theme=dark`
       }
       if (type === 'cases') {
         this.selected.title = 'Mapa de novos casos'
