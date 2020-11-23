@@ -16,7 +16,7 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
-    titleTemplate: 'Geo Covid',
+    titleTemplate: 'GeoCovid',
 
     title: process.env.npm_package_name || '',
     meta: [

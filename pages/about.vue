@@ -67,22 +67,24 @@
       <li>
         <p>
           Painel COVID-19
-          <b>Estado do Espírito Santo</b>. Disponível em:
+          <strong>Estado do Espírito Santo</strong>. Disponível em:
           <a
             href="https://coronavirus.es.gov.br/painel-covid-19-es"
             target="_blank"
             style="color: #666666;"
+            rel="noopener noreferrer"
             >https://coronavirus.es.gov.br/painel-covid-19-es</a
           >. Acesso em: 20 out. 2020.
         </p>
       </li>
       <li>
         <p>
-          GEOBASES. <b>Portal do sistema GEOBASES </b>. Disponível em:
+          GEOBASES. <strong>Portal do sistema GEOBASES </strong>. Disponível em:
           <a
             href="https://geobases.es.gov.br"
             target="_blank"
             style="color: #666666;"
+            rel="noopener noreferrer"
           >
             https://geobases.es.gov.br</a
           >. Acesso em: 20 out. 2020.
@@ -90,13 +92,13 @@
       </li>
       <li>
         <p>
-          IBGE. Censo 2010.<b
-            >O Instituto Brasileiro de Geografia e Estatistica</b
-          >. Disponível em:
+          IBGE. Censo 2010.<strong>O Instituto Brasileiro de Geografia e Estatistica</strong>. 
+          Disponível em:
           <a
             href="https://censo2010.ibge.gov.br/"
             target="_blank"
             style="color: #666666;"
+            rel="noopener noreferrer"
           >
             https://censo2010.ibge.gov.br/</a
           >. Acesso em: 20 out. 2020.
@@ -105,14 +107,13 @@
       <li>
         <p>
           Ipea.
-          <b
-            >O Atlas da Vulnerabilidade Social nas Regiões Metropolitanas
-            Brasileiras</b
-          >. Disponível em:
+          <strong>O Atlas da Vulnerabilidade Social nas Regiões Metropolitanas
+            Brasileiras</strong>. Disponível em:
           <a
             href="http://ivs.ipea.gov.br/images/publicacoes/Ivs/publicacao_atlas_ivs_rm.pdf"
             target="_blank"
             style="color: #666666;"
+            rel="noopener noreferrer"
           >
             http://ivs.ipea.gov.br/images/publicacoes</a
           >. Acesso em: 20 out. 2020.
@@ -120,16 +121,18 @@
       </li>
       <li>
         <p>
-          Seddon, Danielle Santos do Nascimento.<b>
+          Seddon, Danielle Santos do Nascimento.
+            <strong>
             Vulnerabilidade Social no Espírito Santo: conceito e mensuração.
             2014. Dissertação de Mestrado - Universidade Federal do Espírito
-            Santo.</b
-          >
+            Santo.
+            </strong>
           Disponível em:
           <a
             href="http://repositorio.ufes.br/handle/10/1168"
             target="_blank"
             style="color: #666666;"
+            rel="noopener noreferrer"
           >
             http://repositorio.ufes.br/handle/10/1168</a
           >. Acesso em: 20 out. 2020.
@@ -151,7 +154,7 @@
             class="text-decoration-none"
             target="blank"
           >
-            <b>Prof. Dra. Fabricia Benda de Oliveira</b>
+            <strong>Prof. Dra. Fabricia Benda de Oliveira</strong>
           </a>
           <br />
           <span>Departamento de Geologia</span>
@@ -167,7 +170,7 @@
             class="text-decoration-none"
             target="blank"
           >
-            <b>Reinaldo Baldotto Ribeiro Filho</b>
+            <strong>Reinaldo Baldotto Ribeiro Filho</strong>
           </a>
           <br />
           <span>Graduado do curso de Geologia</span>
@@ -183,7 +186,7 @@
             class="text-decoration-none"
             target="blank"
           >
-            <b>Cícero Dias Bottacin</b>
+            <strong>Cícero Dias Bottacin</strong>
           </a>
           <br />
           <span>Graduando do curso de Geologia</span>
@@ -199,7 +202,7 @@
             class="text-decoration-none"
             target="blank"
           >
-            <b>Diego Pael de Paula</b>
+            <strong>Diego Pael de Paula</strong>
           </a>
           <br />
           <span>Graduando do curso de Geologia</span>
@@ -217,7 +220,7 @@
             class="text-decoration-none"
             target="blank"
           >
-            <b>Marx Engel Martins</b>
+            <strong>Marx Engel Martins</strong>
           </a>
           <br />
           <span>Graduado do curso de Geologia</span>
@@ -233,7 +236,7 @@
             class="text-decoration-none"
             target="blank"
           >
-            <b>Matheus da Silva Rocha</b>
+            <strong>Matheus da Silva Rocha</strong>
           </a>
           <br />
           <span>Graduando do curso de Ciência da Computação</span>
@@ -249,7 +252,7 @@
             class="text-decoration-none"
             target="blank"
           >
-            <b>Rafael de Andrade Prenholato </b>
+            <strong>Rafael de Andrade Prenholato </strong>
           </a>
           <br />
           <span>Graduando do curso de Sistemas de Informação </span>
@@ -265,7 +268,7 @@
             class="text-decoration-none"
             target="blank"
           >
-            <b>Willian Conceição Queiroz</b>
+            <strong>Willian Conceição Queiroz</strong>
           </a>
           <br />
           <span>Graduando do curso de Ciência da Computação</span>

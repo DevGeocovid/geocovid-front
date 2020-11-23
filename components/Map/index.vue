@@ -5,22 +5,14 @@
   >
     <iframe
       v-if="mapCases"
-      style="width: 100%; height: 600px; position: absolute; object-fit: cover;"
-      frameborder="0"
-      scrolling="no"
-      marginheight="0"
-      marginwidth="0"
+      style="width: 100%; height: 600px; position: absolute; object-fit: cover; border: none;"
       title="Casos Diagnosticados de Covid 19 para o Espírito Santo"
       :src="getUrl('cases')"
     >
     </iframe>
     <iframe
       v-else
-      style="width: 100%; height: 600px; position: absolute; object-fit: cover;"
-      frameborder="0"
-      scrolling="no"
-      marginheight="0"
-      marginwidth="0"
+      style="width: 100%; height: 600px; position: absolute; object-fit: cover; border: none;"
       title="Mapa Vulnerabilidade do Espírito Santo"
       :src="getUrl('vulnerabilited')"
     >
