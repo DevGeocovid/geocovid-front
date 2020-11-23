@@ -72,6 +72,7 @@
             href="https://coronavirus.es.gov.br/painel-covid-19-es"
             target="_blank"
             style="color: #666666;"
+            rel="noopener noreferrer"
             >https://coronavirus.es.gov.br/painel-covid-19-es</a
           >. Acesso em: 20 out. 2020.
         </p>
@@ -83,6 +84,7 @@
             href="https://geobases.es.gov.br"
             target="_blank"
             style="color: #666666;"
+            rel="noopener noreferrer"
           >
             https://geobases.es.gov.br</a
           >. Acesso em: 20 out. 2020.
@@ -97,6 +99,7 @@
             href="https://censo2010.ibge.gov.br/"
             target="_blank"
             style="color: #666666;"
+            rel="noopener noreferrer"
           >
             https://censo2010.ibge.gov.br/</a
           >. Acesso em: 20 out. 2020.
@@ -113,6 +116,7 @@
             href="http://ivs.ipea.gov.br/images/publicacoes/Ivs/publicacao_atlas_ivs_rm.pdf"
             target="_blank"
             style="color: #666666;"
+            rel="noopener noreferrer"
           >
             http://ivs.ipea.gov.br/images/publicacoes</a
           >. Acesso em: 20 out. 2020.
@@ -130,6 +134,7 @@
             href="http://repositorio.ufes.br/handle/10/1168"
             target="_blank"
             style="color: #666666;"
+            rel="noopener noreferrer"
           >
             http://repositorio.ufes.br/handle/10/1168</a
           >. Acesso em: 20 out. 2020.
