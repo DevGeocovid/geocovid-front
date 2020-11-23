@@ -1,6 +1,7 @@
 <template>
   <div style="height: inherit;">
     <iframe
+      title="PictureMapView"
       class="fill-height"
       style="width: 100%;"
       :src="
