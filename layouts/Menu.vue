@@ -11,7 +11,11 @@
       <v-app-bar-nav-icon @click="drawer = true" />
 
       <v-toolbar-title>
-        <img src="~/assets/logo/write.svg" style="width: 30%;" alt="covid-write"/>
+        <img
+          src="~/assets/logo/write.svg"
+          style="width: 30%;"
+          alt="covid-write"
+        />
       </v-toolbar-title>
 
       <v-spacer></v-spacer>
@@ -36,8 +40,8 @@
           </v-list-item-avatar>
 
           <v-list-item-content class="pr-8">
-            <img 
-              src="~/assets/logo/write.svg" 
+            <img
+              src="~/assets/logo/write.svg"
               style="width: 80%;"
               alt="GeoCovid Site Logo"
             />
@@ -65,6 +69,17 @@
           <v-list-item-content>
             <v-list-item-title style="color: #898989;" class="subtitle-1"
               >Dados gerados</v-list-item-title
+            >
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item link to="/maps-month">
+          <v-list-item-icon>
+            <v-icon left color="#DDE2FF">mdi-calendar </v-icon>
+          </v-list-item-icon>
+
+          <v-list-item-content>
+            <v-list-item-title style="color: #898989;" class="subtitle-1"
+              >Mapas mensais</v-list-item-title
             >
           </v-list-item-content>
         </v-list-item>
