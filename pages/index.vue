@@ -55,10 +55,10 @@ export default {
   name: 'Home',
   data: () => ({
     informations: {
-      cases: 0,
-      deaths: 0,
-      suspects: 0,
-      refuses: 0,
+      cases: '',
+      deaths: '',
+      suspects: '',
+      refuses: '',
       datetime: '',
     },
   }),

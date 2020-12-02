@@ -23,7 +23,7 @@ export default {
   name: 'CardInformation',
   props: {
     title: String,
-    information: Number,
+    information: String,
     typeInformation: String,
   },
   data: () => ({
