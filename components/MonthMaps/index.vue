@@ -1,34 +1,20 @@
 <template>
-  <v-carousel
-    progress
-    progress-color="primary"
-    continuous
-    v-model="selected"
-    hide-delimiters
-    height="fit-content"
-  >
-    <v-carousel-item v-for="(map, index) in maps" :key="index">
-      <v-card class="mt-4 d-flex justify-center" width="100%" height="800px">
-        <iframe
-          style="
-            width: 100%;
-            height: 100%;
-            position: absolute;
-            object-fit: cover;
-            border: none;
-          "
-          title="Mapa de casos/mês"
-          :src="map.path"
-        />
-        <div
-          class="d-flex justify-center primary rounded-lg px-12 mt-4 py-1"
-          style="position: absolute;"
-        >
-          <span class="title white--text">{{ map.month }}</span>
-        </div>
+  <div class="mt-4">
+    <div
+      v-for="(map, index) in maps"
+      :key="index"
+      class="d-flex justify-center"
+    >
+      <v-card
+        :href="map.path"
+        target="_blank"
+        width="400px"
+        class="mt-4 d-flex justify-center primary pa-2 rounded-lg"
+      >
+        <span class="title white--text">{{ map.month }}</span>
       </v-card>
-    </v-carousel-item>
-  </v-carousel>
+    </div>
+  </div>
 </template>
 
 <script>
@@ -55,5 +41,3 @@ export default {
   },
 }
 </script>
-
-<style></style>
