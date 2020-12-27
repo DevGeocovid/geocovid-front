@@ -76,7 +76,10 @@ export default {
         )
         Object.assign(this, { informations })
       } catch (e) {
-        console.error('Impossivel carregar os casos!')
+        const informations = await this.$axios.$get(
+          'https://api-covides2.herokuapp.com/information/last'
+        )
+        Object.assign(this, { informations })
       }
     },
   },
