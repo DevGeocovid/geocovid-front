@@ -9,7 +9,6 @@
     </span>
     <br />
     <br />
-
     <ul>
       <li>
         <p class="body-2 text-justify">
@@ -56,7 +55,6 @@
         </p>
       </li>
     </ul>
-
     <br />
     <br />
     <span
@@ -139,7 +137,6 @@
         </p>
       </li>
     </ol>
-
     <br />
     <br />
     <span
@@ -164,7 +161,6 @@
           <span>Universidade Federal do Espírito Santo | UFES</span>
           <br />
         </div>
-
         <div class="mt-4">
           <a
             href="http://lattes.cnpq.br/7599323771219296"
@@ -181,7 +177,6 @@
           <span>Universidade Federal do Espírito Santo | UFES</span>
           <br />
         </div>
-
         <div class="mt-4">
           <a
             href="http://lattes.cnpq.br/3835863219290414"
@@ -198,7 +193,6 @@
           <span>Universidade Federal do Espírito Santo | UFES</span>
           <br />
         </div>
-
         <div class="mt-4">
           <a
             href="http://lattes.cnpq.br/1666681283698473"
@@ -233,7 +227,6 @@
         </div>
       </v-col>
       <v-col :cols="$vuetify.breakpoint.xs ? '12' : '6'">
-
       <div class="mt-4">
           <a
             href="http://lattes.cnpq.br/3813144583521556"
@@ -250,7 +243,6 @@
           <span>Universidade Federal do Espírito Santo | UFES</span>
           <br />
         </div>
-
         <div class="mt-4">
           <a
             href="http://lattes.cnpq.br/9213685527968955"
@@ -315,7 +307,6 @@
           <span>Universidade Federal do Espírito Santo | UFES</span>
           <br />
         </div>
-
       </v-col>
     </v-row>
     <br />
