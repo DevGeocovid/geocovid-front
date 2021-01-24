@@ -9,7 +9,6 @@
     </span>
     <br />
     <br />
-
     <ul>
       <li>
         <p class="body-2 text-justify">
@@ -56,7 +55,6 @@
         </p>
       </li>
     </ul>
-
     <br />
     <br />
     <span
@@ -139,7 +137,6 @@
         </p>
       </li>
     </ol>
-
     <br />
     <br />
     <span
@@ -158,6 +155,22 @@
           </a>
           <br />
           <span>Departamento de Geologia</span>
+          <br />
+          <span> Centro de Ciências Exatas, Naturais e da Saúde | CCENS </span>
+          <br />
+          <span>Universidade Federal do Espírito Santo | UFES</span>
+          <br />
+        </div>
+        <div class="mt-4">
+          <a
+            href="http://lattes.cnpq.br/7599323771219296"
+            class="text-decoration-none"
+            target="blank"
+          >
+            <strong>Prof. Dr. Edmar Hell Kampke</strong>
+          </a>
+          <br />
+          <span>Departamento de Computação</span>
           <br />
           <span> Centro de Ciências Exatas, Naturais e da Saúde | CCENS </span>
           <br />
@@ -214,6 +227,22 @@
         </div>
       </v-col>
       <v-col :cols="$vuetify.breakpoint.xs ? '12' : '6'">
+      <div class="mt-4">
+          <a
+            href="http://lattes.cnpq.br/3813144583521556"
+            class="text-decoration-none"
+            target="blank"
+          >
+            <strong>Gabriel Namã Lopes do Nascimento </strong>
+          </a>
+          <br />
+          <span>Graduando do curso de Sistemas de Informação </span>
+          <br />
+          <span> Centro de Ciências Exatas, Naturais e da Saúde | CCENS </span>
+          <br />
+          <span>Universidade Federal do Espírito Santo | UFES</span>
+          <br />
+        </div>
         <div class="mt-4">
           <a
             href="http://lattes.cnpq.br/9213685527968955"
