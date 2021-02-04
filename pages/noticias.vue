@@ -8,7 +8,7 @@
       <!--CARD 01-->
         <div class="col">
           <div class="noticia">
-            <a href="noticias-site/retropesctiva-2020-casos-municipios-estado" target="" class="text-decoration-none">
+            <a href="./noticias-site/retrospectiva-2020-casos-municipios-estado" target="" class="text-decoration-none">
                 <v-card
                   class="mx-auto"
                   max-width="400"
@@ -64,7 +64,7 @@
 }
 @media (min-height: 320px) and (orientation: landscape){
   .blog{
-    margin-top: 10%;
+    margin-top: 1%;
     max-width: 90%;
   }
 }

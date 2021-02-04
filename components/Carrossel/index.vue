@@ -1,20 +1,22 @@
 <template>
   <div class="container-fluid">
     <v-carousel cycle class="carrossel">
-      <v-carousel-item
-        link to="/noticias"
-        target="_blank"
-        v-for="(item,i) in items"
-        :key="i"
-        :src="item.src"
-        reverse-transition="fade-transition"
-        transition="fade-transition"
-      >
-      <!--Legenda-->
-      <div class="display-3">
-        <h1 class="display">Retrospectiva de 2020 dos casos de <br> covid-19 no Espírito Santo</h1>
-      </div>
-      </v-carousel-item>
+      <a target="blank" style="text-decoration: none;" href="./noticias">
+        <v-carousel-item
+          target="_blank"
+          v-for="(item,i) in items"
+          :key="i"
+          :src="item.src"
+          reverse-transition="fade-transition"
+          transition="fade-transition"
+        >
+      
+        <!--Legenda-->
+        <div class="display-3">
+          <h1 class="display">Retrospectiva de 2020 dos casos de <br>covid-19 no Espírito Santo</h1>
+        </div>
+        </v-carousel-item>
+      </a>
     </v-carousel>
   </div>
 </template>
@@ -64,34 +66,34 @@
   }
 }
 /**MOBILE LANDSCAPE**/
-@media (min-height: 320px) and (orientation: landscape){
-    .carrossel{
-      height: 300px !important;
-    }
-    .display{
-      font-size: 38px !important;
-      padding: 60px;
-      margin-top: 10px;
-    }
+@media (min-height: 321px) and (min-width: 320px) and (orientation: landscape){
+  .carrossel{
+    height: 300px !important;
+  }
+  .display{
+    font-size: 38px !important;
+    padding: 60px;
+    margin-top: 0px;
+  }
 }
-@media (min-width: 1280px) and (min-height: 800px){
-    .carrossel{
-      height: 400px !important;
-    }
-    .display{
-      font-size: 50px !important;
-      font-weight: 500;
-      line-height: 70px;
-      margin-top: 80px;
-    }
+@media (min-width: 720px) and (min-height: 800px){
+  .carrossel{
+    height: 300px !important;
+  }
+  .display{
+    font-size: 30px !important;
+    font-weight: 500;
+    line-height: 50px;
+    margin-top: 30px;
+  }
 }
 /**PC 720p**/
 @media (min-width: 1280px){
-    .display{
-      font-size: 42px !important;
-      padding: 50px;
-      margin-top: 50px;
-    }
+  .display{
+    font-size: 42px !important;
+    padding: 50px;
+    margin-top: 50px;
+  }
 }
 /**PC 1080p**/
 @media (min-width: 1920px){
