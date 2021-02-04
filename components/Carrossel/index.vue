@@ -1,8 +1,9 @@
 <template>
   <div class="container-fluid">
     <v-carousel cycle class="carrossel">
-      <a target="blank" style="text-decoration: none;" href="./noticias">
+      <a target="blank" style="text-decoration: none;" href="/noticias">
         <v-carousel-item
+          target="_blank"
           v-for="(item,i) in items"
           :key="i"
           :src="item.src"
