@@ -4,7 +4,7 @@
         <div class="cabecalho">
             <p class="informacao">02/02/2021</p>
             <h1 class="titulo">Retrospectiva de 2020 dos casos de coronavírus no Espírito Santo</h1>
-            <p class="texto">Veja a nossa retrospectiva do ano de 2020 sobre o número de casos diários e totais acumulados e positivos de Covid-19 para alguns municípios do Espírito Santo.
+            <p class="texto">Veja a nossa retrospectiva do ano de 2020 sobre o número de casos diários e totais acumulados e positivos de Covid-19 para alguns municípios do estado do Espírito Santo.
             </p>
             <br>
             <p class="informacao" style="font-weight: 500">Curta e compartilhe!</p>
@@ -90,15 +90,15 @@
             <br><br>
             O trabalho é desenvolvido por uma equipe de bolsistas e voluntários multidisciplinares de caráter científico. Em nossa equipe, estão presentes alunos de graduação em geologia, sistemas de informação e ciência da computação. A equipe é chefiada pelo geólogo Reinaldo Baldotto Ribeiro Filho sob orientação da professora doutora Fabricia Benda de Oliveira.
             <br><br>
-            Os dados do projeto GeoCovid ES são adquiridos da seguinte forma: O site Painel Covid ES disponibiliza um arquivo no formato csv para download no qual constam várias informações sobre cada caso. Nesse arquivo as informações são organizadas por pessoa. Em determinada hora do dia, um processo automático faz o download desse arquivo e separa três colunas para serem utilizadas, que são a data de diagnóstico (no caso de uma infecção esse campo representa a data em que a pessoa recebeu o resultado de que era portadora do vírus), a classificação (esse campo informa se o caso é realmente confirmado, suspeito ou descartado) e o município onde a pessoa reside.
+            Os dados do projeto GeoCovid ES são adquiridos da seguinte forma:<br>O <a class="links" target="_blank" href="https://coronavirus.es.gov.br/painel-covid-19-es">site Painel Covid ES</a> disponibiliza um arquivo no formato .csv para download no qual constam várias informações sobre cada caso. Nesse arquivo, as informações são organizadas por casos individuais. Em determinada hora do dia, um processo automático faz o download desse arquivo e separa três colunas para serem utilizadas, que são a <b style="color: #181B34;">data de diagnóstico</b>, (no caso de uma infecção, esse campo representa a data em que a pessoa recebeu o resultado de que era portadora do vírus), <b style="color: #181B34;">a classificação</b> (esse campo informa se o caso foi confirmado, suspeito ou descartado) e o <b style="color: #181B34;">município onde a pessoa reside.</b>
             <br><br>
-            Com as colunas separadas são adicionados filtros para que apareçam somente casos confirmados e de pessoas residentes no Espírito Santo, então a quantidade de linhas é contada com base na data em questão e nos municípios para que se tenha a quantidade diária de casos no estado ou em determinado município. Além disso, é realizado um somatório para a obtenção da quantidade total de casos. Esses resultados são organizados em uma tabela na qual as linhas são compostas por cada município e as colunas por cada data. Para os gráficos de crescimento uma tabela diferente é gerada, composta por três colunas, sendo data, total de casos no dia e total de casos até o dia.
+            Com as colunas separadas são adicionados filtros para que apareçam somente casos confirmados e de pessoas residentes no Espírito Santo, então a quantidade de linhas é contada com base na data em questão e nos municípios para que se tenha a quantidade diária de casos no estado ou em determinado município. Além disso, é realizado um somatório para a obtenção da quantidade total de casos. Esses resultados são organizados em uma tabela na qual as linhas são compostas por cada município e as colunas por cada data. Para os gráficos de crescimento, uma tabela diferente é gerada, composta por três colunas, sendo <b style="color: #181B34;">data</b>, <b style="color: #181B34;">total de casos no dia</b> e <b style="color: #181B34;">total de casos até o dia</b>.
             <br><br>
-            Os produtos gerados após o processamento dos dados descritos acima são: Confecção mapa diário de novos casos; Confecção de mapas com total de casos acumulados e densidade por 1000 habitantes; Geração de curvas de crescimento de notificações confirmadas no ES e nos municípios; Retrospectiva e análise dos números de casos positivos totais e diários do avanço da covid-19 no ano de 2020; Confecção de postagens informativas e curiosidades sobre o avanço da doença nas mídias digitais, além de outras atividades que emergirem durante a duração do projeto.
+            Os resultados após o processamento dos dados descritos acima são: <b style="color: #181B34;"><br><br>Confecção mapa diário de novos casos; <br><br>Confecção de mapas com total de casos acumulados e densidade por 1000 habitantes; <br><br>Geração de curvas de crescimento de notificações confirmadas no ES e nos municípios; <br><br>Retrospectiva e análise dos números de casos positivos totais e diários do avanço da covid-19 no ano de 2020; <br><br>Confecção de postagens informativas e curiosidades sobre o avanço da doença nas mídias digitais, além de outras atividades que emergirem durante a realização do projeto.</b>
             <br><br>
-            A divulgação destes produtos são realizadas através de um site autoral, por meio do endereço eletrônico: https://www.geocovides.com.br/
+            A divulgação dos resultados são realizadas através de um <a class="links" target="_blank" href="https://www.geocovides.com.br/">site autoral</a>, por meio do endereço eletrônico: <a class="links" target="_blank" href="https://www.geocovides.com.br/">https://www.geocovides.com.br/</a>
             <br><br>
-            Além de nosso endereço eletrônico, os trabalhos podem ser contemplados por meio de nossas mídias digitais <a class="links" target="_blank" href="https://www.facebook.com/GeocovidES-108730517684301">Facebook</a> e <a class="links" target="_blank" href="https://www.instagram.com/geocovid.es/?hl=pt-br">Instagram</a>, através do perfil <a class="links" target="_blank" href="https://www.instagram.com/geocovid.es/?hl=pt-br">@geocovid.es.</a>
+            Além de nosso site, os trabalhos podem ser contemplados por meio de nossas mídias digitais <a class="links" target="_blank" href="https://www.facebook.com/GeocovidES-108730517684301">Facebook</a> e <a class="links" target="_blank" href="https://www.instagram.com/geocovid.es/?hl=pt-br">Instagram</a>, através do perfil <a class="links" target="_blank" href="https://www.instagram.com/geocovid.es/?hl=pt-br">@geocovid.es</a>.
             <br><br><br>
             </p>
             <br>
@@ -123,7 +123,7 @@
 function share(){
 	if (navigator.share !== undefined) {
 		navigator.share({
-			title: 'GeoCovid',
+			title: 'GeoCovid-ES',
 			text: 'Acompanhe os dados e veja as principais notícias sobre COVID-19 no ES',
 			url: 'https://www.geocovides.com.br/noticias',
 		})
@@ -138,7 +138,7 @@ function share(){
     font-weight: 400;
 }
 .titulo, .titulo-02{
-    color: #181B34;;
+    color: #181B34;
 }
 .share{
     margin-top: -10px;
