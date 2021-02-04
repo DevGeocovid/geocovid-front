@@ -8,7 +8,7 @@
       <!--CARD 01-->
         <div class="col">
           <div class="noticia">
-            <a href="./noticias-site/retrospectiva-2020-casos-municipios-estado" target="" class="text-decoration-none">
+            <a href="../noticias-site/retrospectiva-2020-casos-municipios-estado" target="" class="text-decoration-none">
                 <v-card
                   class="mx-auto"
                   max-width="400"

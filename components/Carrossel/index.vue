@@ -3,14 +3,12 @@
     <v-carousel cycle class="carrossel">
       <a target="blank" style="text-decoration: none;" href="./noticias">
         <v-carousel-item
-          target="_blank"
           v-for="(item,i) in items"
           :key="i"
           :src="item.src"
           reverse-transition="fade-transition"
           transition="fade-transition"
         >
-      
         <!--Legenda-->
         <div class="display-3">
           <h1 class="display">Retrospectiva de 2020 dos casos de <br>covid-19 no Espírito Santo</h1>
