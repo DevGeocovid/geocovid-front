@@ -61,6 +61,20 @@
             >
           </v-list-item-content>
         </v-list-item>
+
+        <v-list-item link to="/noticias">
+          <v-list-item-icon>
+            <v-icon left color="#DDE2FF">mdi-newspaper-variant-multiple </v-icon>
+          </v-list-item-icon>
+
+          <v-list-item-content>
+            <v-list-item-title style="color: #898989;" class="subtitle-1"
+              >NOTÍCIAS</v-list-item-title
+            >
+          </v-list-item-content>
+        </v-list-item>
+
+
         <v-list-item link to="/generated">
           <v-list-item-icon>
             <v-icon left color="#DDE2FF">mdi-database </v-icon>
@@ -72,6 +86,7 @@
             >
           </v-list-item-content>
         </v-list-item>
+        
         <v-list-item link to="/maps-month">
           <v-list-item-icon>
             <v-icon left color="#DDE2FF">mdi-calendar </v-icon>
@@ -83,6 +98,7 @@
             >
           </v-list-item-content>
         </v-list-item>
+
         <v-list-item link to="/about">
           <v-list-item-icon>
             <v-icon left color="#DDE2FF">mdi-information-outline </v-icon>
@@ -158,3 +174,4 @@ export default {
   color: #898989;
 }
 </style>
+

@@ -32,7 +32,7 @@
           <v-row>
             <CardInformation
               class="mt-4"
-              title="Mortes"
+              title="Óbitos"
               :information="informations.deaths"
               typeInformation="deaths"
             />
@@ -45,6 +45,14 @@
           </div>
         </v-col>
       </v-row>
+    </v-col>
+    <v-col :cols="$vuetify.breakpoint.xs ? '12' : '10'"
+    class="mx-auto">
+      <div id="titulo" class="mx-auto">
+        <div class="d-flex justify-center primary rounded-lg px-12 mt-4 py-1" style="position:;">
+        <span class="title white--text">NOTÍCIAS</span></div>
+      </div>
+      <Carrossel />
     </v-col>
   </v-row>
 </template>
