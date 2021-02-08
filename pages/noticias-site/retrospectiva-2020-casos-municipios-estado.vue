@@ -120,15 +120,20 @@
 
 <script>
 function share(){
+
 	if (navigator.share !== undefined) {
+
 		navigator.share({
 			title: 'GeoCovid-ES',
 			text: 'Acompanhe os dados e veja as principais notícias sobre COVID-19 no ES',
 			url: 'https://www.geocovides.com.br/noticias',
 		})
+
 		.then(() => console.log('Compartilhado!'))
 		.catch((error) => console.log('Algo deu errado', error));
+
 	}
+    
 }
 </script>
 
