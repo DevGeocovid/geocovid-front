@@ -33,7 +33,7 @@
         <!--CARD 02-->
         <div class="col">
           <div class="noticia">
-            <a href="../noticias-site/mortes-no-es-08-02-2021" target="" class="text-decoration-none">
+            <a href="../noticias-site/mortes-covid-es-08-02-2021" target="" class="text-decoration-none">
               <v-card
                 class="mx-auto"
                 max-width="400"
