@@ -12,7 +12,7 @@
         >
         <!--Legenda-->
         <div class="display-3">
-          <h1 class="display">Retrospectiva de 2020 dos casos de <br>covid-19 no Espírito Santo</h1>
+          <h1 class="display">Veja as principais notícias <br>sobre covid-19 no Espírito Santo</h1>
         </div>
         </v-carousel-item>
       </a>
