@@ -2,9 +2,9 @@
 <center>
   <div class="container">
     <div class="cabecalho">
-      <p class="informacao">02/02/2021</p>
-      <h1 class="titulo">Retrospectiva de 2020 dos casos de coronavírus no Espírito Santo</h1>
-      <p class="texto">Veja a nossa retrospectiva do ano de 2020 sobre o número de casos diários e totais acumulados e positivos de Covid-19 para alguns municípios do estado do Espírito Santo.</p>
+      <p class="informacao">08/02/2021</p>
+      <h1 class="titulo">ES chega a 5.995 mortes e 302.854 casos confirmados de Covid-19</h1>
+      <p class="texto">Na comparação com os dados divulgados nesse sábado (6), o aumento é de 9 mortes e 993 novos casos da doença.</p>
       <br>
       <p class="informacao" style="font-weight: 500">Curta e compartilhe!</p>
       <div class="share">
@@ -20,69 +20,32 @@
       </div>
         <br><br>
         <center>
-          <img class="foto" src="https://veja.abril.com.br/wp-content/uploads/2020/04/gettyimages-1215609255.jpg" alt="Imagem de capa">
+          <img class="foto" src="https://s2.glbimg.com/ObW7kkhOorqEqyqVXSGzZOLGYY0=/0x0:1700x1065/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/r/s/q3NLI6RbA57U5eBnGGzA/mortes-coronavirus.jpg" alt="Imagem de capa">
         </center>
       </div>
     <div class="corpo">
-      <p class="texto">Os gráficos animados em formato de vídeo relatam o avanço do número de casos da covid-19 ao longo do ano de 2020 por meio da relação entre número de casos positivos diários totais e número de casos positivos somados totais em função da data. 
+      <p class="texto">O Espírito Santo registrou, até este domingo (7), <b style="color: #181B34;">5.995 mortes por Covid-19</b>. O número de <b style="color: #181B34;">casos confirmados chegou a 302.854</b>. O índice de <b style="color: #181B34;">letalidade da doença no estado é de 2%</b>. Os dados foram divulgados na plataforma Painel Covid-19, do Governo do Estado.
       <br><br>
-      A produção dos vídeos têm o objetivo de relatar a abstração da dinâmica dos casos e fornecer um panorama do agravamento da doença relacionada ao tempo.   A análise das retrospectivas geradas, nos possibilitam observar, de modo em geral, os picos de agravamento dos casos em duas “ondas” de propagação. Tal afirmação é evidenciada por meio do aumento do número de casos diários positivos em dois intervalos de tempo durante 2020 que variam de município para município.
-      <div class="instagram-frame">
-        <p>Veja a representação gráfica dos casos de covid-19  durante 2020 em todo o estado:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKHTiYgMwY7/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Vitória:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKWSCbHsVY8/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Vila Velha:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKgibBeM9xU/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Serra:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKjzSh8n8q0/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Aracruz:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKglPxFh4ks/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Colatina:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKhOa31sMXr/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Alegre:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKTtP68gzab/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Guaçuí:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKuGdhcHhab/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Domingos Martins:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKjJ_o2lWwf/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Venda Nova do Imigrante:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKluzRyFBVy/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Ibiraçú:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKo80IzAQWf/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Afonso Cláudio:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKq4bnJgeIG/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Castelo:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKrhmD2Bx9Q/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Nova Venécia:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKtdKpBnRta/embed" frameborder="0"></iframe>
-      </div>
+      Na comparação com <a style="color: #181B34;" href="https://g1.globo.com/es/espirito-santo/noticia/2021/02/06/es-chega-a-5986-mortes-e-301861-casos-confirmados-de-covid-19.ghtml" target="_blank">os dados divulgados no sábado (6),</a><b style="color: #181B34;">o aumento é de nove mortes e 993 novos casos da doença.</b>
+      <br><br>
+      As novas confirmações não significam, necessariamente, que as mortes e casos aconteceram de um dia para o outro, mas que foram contabilizadas no sistema neste período.
+      <br><br>
+      Até o momento, <b style="color: #181B34;">283.831 pessoas estão curadas</b> e 911.072 testes foram feitos. Além disso, há 193.686 casos suspeitos e outros 456.469 foram descartados.
+      <br><br>
+      Vale ressaltar que a confirmação de casos é lançada no sistema utilizado pelo Governo do ES no dia referente à coleta da amostra do paciente, enquanto a divulgação para o público externo ocorre apenas no dia que sai o resultado positivo para a doença.
+      <br><br>
+      O sistema usado pelo Espírito Santo para atualizar os números também contabiliza pacientes residentes em outros estados que fizeram a testagem em cidades capixabas.
+      <br><br>
+      <h1 class="titulo-02">Leitos</h1>
+      <center>
+        <img class="foto" src="https://lh3.googleusercontent.com/proxy/Xgf7ct3DLvtsZPOJFIXdd4nHSah01_xO-dxeGvHkf6Akj4nfa7cMz8u_Xbh6I2XXgJoADWRy7-D2TzcPqxR0t7IA13Bzp3TE3NuB3YJF-KRNyewTrLBQZlsIbSI9x0hYA8wYtCxb-Ew" alt="Imagem de capa">
+      </center>
+      <br>
+      <p class="texto">
+      Em todo o Espírito Santo, a taxa de ocupação dos leitos de UTI destinados a pacientes com Covid-19 está em 72,65% neste domingo. Ao todo, 486 pacientes estão internados em leitos de UTI e 399 em leitos de enfermaria.</p>
+      <br>
+      <b style="color: #181B34;">Fonte da notícia: </b><a style="color: #181B34;" href="https://g1.globo.com/es/espirito-santo/noticia/2021/02/06/es-chega-a-5986-mortes-e-301861-casos-confirmados-de-covid-19.ghtml" target="_blank">https://g1.globo.com/es/espirito-santo/noticia/2021/02/07/es-chega-a-5995-mortes-e-302854-casos-confirmados-de-covid-19.ghtml</a>
+      <br><br>
       <h1 class="titulo-02">Sobre o GeoCovid ES</h1>
       <p class="texto">
       O projeto GeoCovid ES teve início por meio da aprovação do edital 03/2020 da Fundação de Amparo à Pesquisa e Inovação do Espírito Santo - FAPES em meados do segundo semestre de 2020. O projeto visa subsidiar a formulação de soluções para o enfrentamento da pandemia causada pelo novo coronavírus (Covid-19), no estado do Espírito Santo, proposto mediante demanda induzida.
