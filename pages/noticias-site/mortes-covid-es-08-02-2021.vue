@@ -38,7 +38,7 @@
       <br><br>
       <h1 class="titulo-02">Leitos</h1>
       <center>
-        <img class="foto" src="https://lh3.googleusercontent.com/proxy/Xgf7ct3DLvtsZPOJFIXdd4nHSah01_xO-dxeGvHkf6Akj4nfa7cMz8u_Xbh6I2XXgJoADWRy7-D2TzcPqxR0t7IA13Bzp3TE3NuB3YJF-KRNyewTrLBQZlsIbSI9x0hYA8wYtCxb-Ew" alt="Imagem de capa">
+        <img class="foto" src="http://www.aen.pr.gov.br/modules/galeria/uploads/61159/normal__MG_2708.jpg" alt="Leitos covid">
       </center>
       <br>
       <p class="texto">
@@ -72,8 +72,8 @@
         <a class="redes-sociais" href="https://www.instagram.com/geocovid.es/?hl=pt-br" target="_blank">
             <img width="30" height="30" src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="Instagram">
         </a>
-        <a class="redes-sociais" href="javascript:void(0)" onclick="share()">
-            <img width="30" height="30" src="https://image.flaticon.com/icons/svg/3925/3925158.svg" alt="Compartilhar">
+        <a class="redes-sociais" href="https://api.whatsapp.com/send?text=Acompanhe as principais notícias do ES sobre covid-19 em nosso site: https://www.geocovides.com.br/noticias" target="_blank">
+          <img width="30" height="30" src="https://image.flaticon.com/icons/svg/174/174879.svg" alt="Whatsapp">
         </a>
       </div>
     </div> 

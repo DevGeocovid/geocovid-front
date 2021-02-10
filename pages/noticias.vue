@@ -5,31 +5,6 @@
     <br><br>
     <div class="container">
       <div class="row">
-      <!--CARD 01-->
-        <div class="col">
-          <div class="noticia">
-            <a href="../noticias-site/retrospectiva-2020-casos-municipios-estado" target="" class="text-decoration-none">
-              <v-card
-                class="mx-auto"
-                max-width="400"
-              >
-                <v-img
-                  class="white--text align-end"
-                  height="200px"
-                  src="https://veja.abril.com.br/wp-content/uploads/2020/04/gettyimages-1215609255.jpg"
-                >
-                </v-img>
-                <v-card-subtitle class="legenda_card">
-                  02/02/2021
-                </v-card-subtitle>
-                <v-card-title class="titulo_card">Retrospestiva de 2020 dos casos de <br> covid-19 no Espírito Santo</v-card-title>
-                <v-card-text class="text--primary">
-                </v-card-text>
-              </v-card>
-            </a>
-          </div>
-        </div>
-        <!--FIM CARD 01-->
         <!--CARD 02-->
         <div class="col">
           <div class="noticia">
@@ -55,6 +30,31 @@
           </div>
         </div>
         <!--FIM CARD 02-->
+        <!--CARD 01-->
+        <div class="col">
+          <div class="noticia">
+            <a href="../noticias-site/retrospectiva-2020-casos-municipios-estado" target="" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://veja.abril.com.br/wp-content/uploads/2020/04/gettyimages-1215609255.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  02/02/2021
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Retrospestiva de 2020 dos casos de <br> covid-19 no Espírito Santo</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+        <!--FIM CARD 01-->
         <!--FIM DA LINHA-->
         </div>
     </div>
