@@ -109,8 +109,8 @@
         <a class="redes-sociais" href="https://www.instagram.com/geocovid.es/?hl=pt-br" target="_blank">
             <img width="30" height="30" src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="Instagram">
         </a>
-        <a class="redes-sociais" href="javascript:void(0)" onclick="share()">
-            <img width="30" height="30" src="https://image.flaticon.com/icons/svg/3925/3925158.svg" alt="Compartilhar">
+        <a class="redes-sociais" href="https://api.whatsapp.com/send?text=Acompanhe as principais notícias do ES sobre covid-19 em nosso site: https://www.geocovides.com.br/noticias" target="_blank">
+          <img width="30" height="30" src="https://image.flaticon.com/icons/svg/174/174879.svg" alt="Whatsapp">
         </a>
       </div>
     </div> 
