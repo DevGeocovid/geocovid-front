@@ -1,10 +1,35 @@
 <template>
 <center>
   <div class="blog">
-    <Carrossel />
+    <Carrossel id="carrossel" />
     <br><br>
     <div class="container">
       <div class="row">
+      <!--CARD 03-->
+        <div class="col">
+          <div class="noticia">
+            <a href="../noticias-site/dois-pacientes-de-manaus-curados-de-covid-no-es" target="" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/01/22/chegadas-dos-pacientes-com-covid-19-vindos-de-manaus-404792-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  16/02/2021
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Dois pacientes de Manaus curados de Covid-19 no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+        <!--FIM CARD 03-->
         <!--CARD 02-->
         <div class="col">
           <div class="noticia">
@@ -22,7 +47,7 @@
                 <v-card-subtitle class="legenda_card">
                   08/02/2021
                 </v-card-subtitle>
-                <v-card-title class="titulo_card">ES chega a 5.995 mortes e 302.854 casos confirmados de Covid-19</v-card-title>
+                <v-card-title class="titulo_card">ES chega a quase 6 mil mortes e 300 mil casos confirmados de Covid-19</v-card-title>
                 <v-card-text class="text--primary">
                 </v-card-text>
               </v-card>
@@ -47,7 +72,7 @@
                 <v-card-subtitle class="legenda_card">
                   02/02/2021
                 </v-card-subtitle>
-                <v-card-title class="titulo_card">Retrospestiva de 2020 dos casos de <br> covid-19 no Espírito Santo</v-card-title>
+                <v-card-title class="titulo_card">Retrospestiva de 2020 dos casos de covid-19 no Espírito Santo</v-card-title>
                 <v-card-text class="text--primary">
                 </v-card-text>
               </v-card>
@@ -78,6 +103,8 @@ margin-top: 30px;
 }
 .titulo_card{
 margin-bottom: -20px;
+text-align: center;
+word-break: normal !important;
 }
 .legenda_card{
 margin-bottom: -30px;
