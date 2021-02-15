@@ -8,7 +8,7 @@
       <!--CARD 03-->
         <div class="col">
           <div class="noticia">
-            <a href="../noticias-site/dois-pacientes-de-manaus-curados-de-covid-no-es" target="" class="text-decoration-none">
+            <a href="/news/dois-pacientes-de-manaus-curados-de-covid-no-es" target="" class="text-decoration-none">
               <v-card
                 class="mx-auto"
                 max-width="400"
@@ -33,7 +33,7 @@
         <!--CARD 02-->
         <div class="col">
           <div class="noticia">
-            <a href="../noticias-site/mortes-covid-es-08-02-2021" target="" class="text-decoration-none">
+            <a href="/news/mortes-covid-es-08-02-2021" target="" class="text-decoration-none">
               <v-card
                 class="mx-auto"
                 max-width="400"
@@ -58,7 +58,7 @@
         <!--CARD 01-->
         <div class="col">
           <div class="noticia">
-            <a href="../noticias-site/retrospectiva-2020-casos-municipios-estado" target="" class="text-decoration-none">
+            <a href="/news/retrospectiva-2020-casos-municipios-estado" target="" class="text-decoration-none">
               <v-card
                 class="mx-auto"
                 max-width="400"
