@@ -56,7 +56,7 @@
       <br><br>
       Com as colunas separadas são adicionados filtros para que apareçam somente casos confirmados e de pessoas residentes no Espírito Santo, então a quantidade de linhas é contada com base na data em questão e nos municípios para que se tenha a quantidade diária de casos no estado ou em determinado município. Além disso, é realizado um somatório para a obtenção da quantidade total de casos. Esses resultados são organizados em uma tabela na qual as linhas são compostas por cada município e as colunas por cada data. Para os gráficos de crescimento, uma tabela diferente é gerada, composta por três colunas, sendo <b style="color: #181B34;">data</b>, <b style="color: #181B34;">total de casos no dia</b> e <b style="color: #181B34;">total de casos até o dia</b>.
       <br><br>
-      Os resultados após o processamento dos dados descritos acima são: <b style="color: #181B34;"><br><br>Confecção mapa diário de novos casos;<br><br>Confecção de mapas com total de casos acumulados e densidade por 1000 habitantes;<br><br>Geração de curvas de crescimento de notificações confirmadas no ES e nos municípios;<br><br>Retrospectiva e análise dos números de casos positivos totais e diários do avanço da covid-19 no ano de 2020;<br><br>Confecção de postagens informativas e curiosidades sobre o avanço da doença nas mídias digitais, além de outras atividades que emergirem durante a realização do projeto.</b>
+      Os resultados após o processamento dos dados descritos acima são: <b style="color: #181B34;"><br><br>• Confecção de mapas diários de novos casos;<br><br>• Confecção de mapas com total de casos acumulados e densidade por 1000 habitantes;<br><br>• Geração de curvas de crescimento de notificações confirmadas no ES e nos municípios;<br><br>• Retrospectiva e análise dos números de casos positivos totais e diários do avanço da covid-19 no ano de 2020;<br><br>• Confecção de postagens informativas e curiosidades sobre o avanço da doença nas mídias digitais, além de outras atividades que emergirem durante a realização do projeto.</b>
       <br><br>
       A divulgação dos resultados são realizadas através de um <a class="links" target="_blank" href="https://www.geocovides.com.br/">site autoral</a>, por meio do endereço eletrônico: <a class="links" target="_blank" href="https://www.geocovides.com.br/">https://www.geocovides.com.br/</a>
       <br><br>
@@ -165,7 +165,7 @@
   }
 }
   /**MOBILE LANDSCAPE**/
-  @media (min-height: 320px) and (orientation: landscape){
+@media (min-height: 320px) and (orientation: landscape){
   .cabecalho{
     width: 90%;
   }

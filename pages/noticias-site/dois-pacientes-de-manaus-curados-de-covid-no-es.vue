@@ -2,9 +2,9 @@
 <center>
   <div class="container">
     <div class="cabecalho">
-      <p class="informacao">02/02/2021</p>
-      <h1 class="titulo">Retrospectiva de 2020 dos casos de coronavírus no Espírito Santo</h1>
-      <p class="texto">Veja a nossa retrospectiva do ano de 2020 sobre o número de casos diários e totais acumulados e positivos de Covid-19 para alguns municípios do estado do Espírito Santo.</p>
+      <p class="informacao">16/02/2021</p>
+      <h1 class="titulo">Mais dois pacientes de Manaus curados da Covid no ES têm alta do hospital</h1>
+      <p class="texto">No total, 36 pessoas foram transferidas do Amazonas para o Espírito Santo no dia 21 de janeiro, sendo que  17 já venceram a doença</p>
       <br>
       <p class="informacao" style="font-weight: 500">Curta e compartilhe!</p>
       <div class="share">
@@ -20,69 +20,24 @@
       </div>
         <br><br>
         <center>
-          <img class="foto" src="https://veja.abril.com.br/wp-content/uploads/2020/04/gettyimages-1215609255.jpg" alt="Imagem de capa">
+          <img class="foto" src="https://midias.agazeta.com.br/2021/01/22/chegadas-dos-pacientes-com-covid-19-vindos-de-manaus-404792-article.jpg" alt="Imagem de capa">
         </center>
       </div>
     <div class="corpo">
-      <p class="texto">Os gráficos animados em formato de vídeo relatam o avanço do número de casos da covid-19 ao longo do ano de 2020 por meio da relação entre número de casos positivos diários totais e número de casos positivos somados totais em função da data. 
+      <p class="texto">Mais dois pacientes do <b style="color: #181B34;">Amazonas</b> que estavam no Espírito Santo para se tratar da infecção do novo coronavírus  receberam alta médica neste domingo (14). No total, 36 pessoas foram transferidas de Manaus para o Estado no dia 21 de janeiro. Agora já são 17 manauaras que se curaram da doença após ficarem internados no Hospital Dr. Jayme dos Santos Neves, <b style="color: #181B34;">na Serra</b>.
       <br><br>
-      A produção dos vídeos têm o objetivo de relatar a abstração da dinâmica dos casos e fornecer um panorama do agravamento da doença relacionada ao tempo.   A análise das retrospectivas geradas, nos possibilitam observar, de modo em geral, os picos de agravamento dos casos em duas “ondas” de propagação. Tal afirmação é evidenciada por meio do aumento do número de casos diários positivos em dois intervalos de tempo durante 2020 que variam de município para município.
-      <div class="instagram-frame">
-        <p>Veja a representação gráfica dos casos de covid-19  durante 2020 em todo o estado:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKHTiYgMwY7/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Vitória:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKWSCbHsVY8/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Vila Velha:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKgibBeM9xU/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Serra:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKjzSh8n8q0/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Aracruz:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKglPxFh4ks/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Colatina:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKhOa31sMXr/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Alegre:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKTtP68gzab/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Guaçuí:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKuGdhcHhab/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Domingos Martins:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKjJ_o2lWwf/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Venda Nova do Imigrante:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKluzRyFBVy/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Ibiraçú:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKo80IzAQWf/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Afonso Cláudio:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKq4bnJgeIG/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Castelo:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKrhmD2Bx9Q/embed" frameborder="0"></iframe>
-      </div>
-      <div class="instagram-frame">
-        <p>Em Nova Venécia:</p>
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKtdKpBnRta/embed" frameborder="0"></iframe>
-      </div>
+      De acordo com a <b style="color: #181B34;">Secretaria de Estado da Saúde (Sesa)</b>, os dois últimos pacientes que receberam alta apresentaram melhora clínica e fizeram dois testes de RT-PCR, com resultados negativos, nas últimas 24 horas. A volta dos pacientes transferidos para casa é de responsabilidade do Ministério da Saúde e do governo do Estado do Amazonas. Eles devem regressar em voo comercial, neste domingo (13), às 20h35. 
+      <br><br>
+      Dos 36 pacientes transferidos do Amazonas para o Espírito Santo, 13 permanecem sob os cuidados dos profissionais do Hospital Estadual Dr. Jayme Santos Neves, sendo dois em UTI e 11 em enfermaria. Seis, infelizmente, evoluíram a óbito por complicações da doença.
+      <br><br>
+      Seis evoluíram a óbito por complicações da doença. Com a alta deste domingo (14), sobe para 17 o número de pacientes que receberam alta médica.
+      <br><br>
+      Vale ressaltar que a confirmação de casos é lançada no sistema utilizado pelo Governo do ES no dia referente à coleta da amostra do paciente, enquanto a divulgação para o público externo ocorre apenas no dia que sai o resultado positivo para a doença.
+      <br><br>
+      O sistema usado pelo Espírito Santo para atualizar os números também contabiliza pacientes residentes em outros estados que fizeram a testagem em cidades capixabas.
+      <br><br>
+      <b style="color: #181B34;">Fonte da notícia: </b><a style="color: #181B34;" href="https://www.agazeta.com.br/es/cotidiano/mais-dois-pacientes-de-manaus-curados-da-covid-no-es-tem-alta-do-hospital-0221" target="_blank">https://www.agazeta.com.br/es/cotidiano/mais-dois-pacientes-de-manaus-curados-da-covid-no-es-tem-alta-do-hospital-0221</a>
+      <br><br>
       <h1 class="titulo-02">Sobre o GeoCovid ES</h1>
       <p class="texto">
       O projeto GeoCovid ES teve início por meio da aprovação do edital 03/2020 da Fundação de Amparo à Pesquisa e Inovação do Espírito Santo - FAPES em meados do segundo semestre de 2020. O projeto visa subsidiar a formulação de soluções para o enfrentamento da pandemia causada pelo novo coronavírus (Covid-19), no estado do Espírito Santo, proposto mediante demanda induzida.
@@ -202,7 +157,7 @@
   }
 }
   /**MOBILE LANDSCAPE**/
-  @media (min-height: 320px) and (orientation: landscape){
+@media (min-height: 320px) and (orientation: landscape){
   .cabecalho{
     width: 90%;
   }
