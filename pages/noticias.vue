@@ -5,6 +5,31 @@
     <br><br>
     <div class="container">
       <div class="row">
+      <!--CARD 04-->
+        <div class="col">
+          <div class="noticia">
+            <a href="../noticias-site/nove-erros-higienizacao-covid-19" target="" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2020/06/10/alem-de-aumentar-o-intervalo-entre-as-consultas-medicos-adotaram-o-uso-de-alcool-em-gel-para-pacientes-e-funcionarios-261087-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  18/02/2021
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Covid-19: nove erros de higienização que as pessoas ainda cometem</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+        <!--FIM CARD 04-->
       <!--CARD 03-->
         <div class="col">
           <div class="noticia">

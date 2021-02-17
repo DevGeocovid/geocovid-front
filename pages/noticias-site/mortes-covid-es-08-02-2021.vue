@@ -47,6 +47,10 @@
       <b style="color: #181B34;">Fonte da notícia: </b><a style="color: #181B34;" href="https://g1.globo.com/es/espirito-santo/noticia/2021/02/06/es-chega-a-5986-mortes-e-301861-casos-confirmados-de-covid-19.ghtml" target="_blank">https://g1.globo.com/es/espirito-santo/noticia/2021/02/07/es-chega-a-5995-mortes-e-302854-casos-confirmados-de-covid-19.ghtml</a>
       <br><br>
       <h1 class="titulo-02">Sobre o GeoCovid ES</h1>
+      <center>
+        <img src="https://bn1304files.storage.live.com/y4mhbCCPBLrkq_ap8EOj76Lh9mL2K7cr20PHx9u2M0pqqnqhBdDaKT0OZHou329TmaDZwXiGhIHjrONAUOViOIu2qMd9irLUP0EC6Us_A5kJq60xgq3P5PlFhzBT-g1nUOu-rC-Il7l17lltr-hLNu85j6RUh8JOIfDfXKIpjoreEi2KLyKKZcmJP9FkaSRWFOn?width=479&height=278&cropmode=none" width="90%" />
+      </center>
+      <br>
       <p class="texto">
       O projeto GeoCovid ES teve início por meio da aprovação do edital 03/2020 da Fundação de Amparo à Pesquisa e Inovação do Espírito Santo - FAPES em meados do segundo semestre de 2020. O projeto visa subsidiar a formulação de soluções para o enfrentamento da pandemia causada pelo novo coronavírus (Covid-19), no estado do Espírito Santo, proposto mediante demanda induzida.
       <br><br>
