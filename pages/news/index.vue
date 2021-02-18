@@ -1,14 +1,13 @@
 <template>
-<center>
   <div class="blog">
     <Carrossel id="carrossel" />
-    <br><br>
+    <br /><br />
     <div class="container">
       <div class="row">
       <!--CARD 04-->
         <div class="col">
           <div class="noticia">
-            <a href="../noticias-site/nove-erros-higienizacao-covid-19" target="" class="text-decoration-none">
+            <a href="/news/nove-erros-higienizacao-covid-19" target="" class="text-decoration-none">
               <v-card
                 class="mx-auto"
                 max-width="400"
@@ -33,11 +32,12 @@
       <!--CARD 03-->
         <div class="col">
           <div class="noticia">
-            <a href="../noticias-site/dois-pacientes-de-manaus-curados-de-covid-no-es" target="" class="text-decoration-none">
-              <v-card
-                class="mx-auto"
-                max-width="400"
-              >
+            <a
+              href="/news/dois-pacientes-de-manaus-curados-de-covid-no-es"
+              target=""
+              class="text-decoration-none"
+            >
+              <v-card class="mx-auto" max-width="400">
                 <v-img
                   class="white--text align-end"
                   height="200px"
@@ -47,9 +47,11 @@
                 <v-card-subtitle class="legenda_card">
                   16/02/2021
                 </v-card-subtitle>
-                <v-card-title class="titulo_card">Dois pacientes de Manaus curados de Covid-19 no ES</v-card-title>
-                <v-card-text class="text--primary">
-                </v-card-text>
+                <v-card-title class="titulo_card"
+                  >Dois pacientes de Manaus curados de Covid-19 no
+                  ES</v-card-title
+                >
+                <v-card-text class="text--primary"> </v-card-text>
               </v-card>
             </a>
           </div>
@@ -58,11 +60,12 @@
         <!--CARD 02-->
         <div class="col">
           <div class="noticia">
-            <a href="../noticias-site/mortes-covid-es-08-02-2021" target="" class="text-decoration-none">
-              <v-card
-                class="mx-auto"
-                max-width="400"
-              >
+            <a
+              href="/news/mortes-covid-es-08-02-2021"
+              target=""
+              class="text-decoration-none"
+            >
+              <v-card class="mx-auto" max-width="400">
                 <v-img
                   class="white--text align-end"
                   height="200px"
@@ -72,9 +75,11 @@
                 <v-card-subtitle class="legenda_card">
                   08/02/2021
                 </v-card-subtitle>
-                <v-card-title class="titulo_card">ES chega a quase 6 mil mortes e 300 mil casos confirmados de Covid-19</v-card-title>
-                <v-card-text class="text--primary">
-                </v-card-text>
+                <v-card-title class="titulo_card"
+                  >ES chega a quase 6 mil mortes e 300 mil casos confirmados de
+                  Covid-19</v-card-title
+                >
+                <v-card-text class="text--primary"> </v-card-text>
               </v-card>
             </a>
           </div>
@@ -83,11 +88,12 @@
         <!--CARD 01-->
         <div class="col">
           <div class="noticia">
-            <a href="../noticias-site/retrospectiva-2020-casos-municipios-estado" target="" class="text-decoration-none">
-              <v-card
-                class="mx-auto"
-                max-width="400"
-              >
+            <a
+              href="/news/retrospectiva-2020-casos-municipios-estado"
+              target=""
+              class="text-decoration-none"
+            >
+              <v-card class="mx-auto" max-width="400">
                 <v-img
                   class="white--text align-end"
                   height="200px"
@@ -97,19 +103,20 @@
                 <v-card-subtitle class="legenda_card">
                   02/02/2021
                 </v-card-subtitle>
-                <v-card-title class="titulo_card">Retrospestiva de 2020 dos casos de covid-19 no Espírito Santo</v-card-title>
-                <v-card-text class="text--primary">
-                </v-card-text>
+                <v-card-title class="titulo_card"
+                  >Retrospestiva de 2020 dos casos de covid-19 no Espírito
+                  Santo</v-card-title
+                >
+                <v-card-text class="text--primary"> </v-card-text>
               </v-card>
             </a>
           </div>
         </div>
         <!--FIM CARD 01-->
         <!--FIM DA LINHA-->
-        </div>
+      </div>
     </div>
   </div>
-</center>
 </template>
 
 <script>
@@ -120,31 +127,33 @@ export default {
 
 <style>
 /**TÍTULO DO CARROSSEL**/
-#titulo{
+#titulo {
   display: none;
 }
-.cards{
-margin-top: 30px;
+.cards {
+  margin-top: 30px;
 }
-.titulo_card{
-margin-bottom: -20px;
-text-align: center;
-word-break: normal !important;
+.titulo_card {
+  margin-bottom: -20px;
+  text-align: center;
+  word-break: normal !important;
 }
-.legenda_card{
-margin-bottom: -30px;
+.legenda_card {
+  margin-bottom: -30px;
 }
-.blog{
-margin-top: 20%;
+.blog {
+  margin-top: 20%;
+  margin-left: auto;
+  margin-right: auto;
 }
-@media (min-height: 320px) and (orientation: landscape){
-  .blog{
+@media (min-height: 320px) and (orientation: landscape) {
+  .blog {
     margin-top: 1%;
     max-width: 90%;
   }
 }
-@media (min-width: 1200px){
-  .blog{
+@media (min-width: 1200px) {
+  .blog {
     margin-top: 3%;
     max-width: 90%;
     text-align: center;

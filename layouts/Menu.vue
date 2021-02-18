@@ -52,7 +52,7 @@
 
         <v-list-item link to="/">
           <v-list-item-icon>
-            <v-icon left color="#DDE2FF">mdi-view-dashboard-outline </v-icon>
+            <v-icon left color="#DDE2FF"> mdi-view-dashboard-outline </v-icon>
           </v-list-item-icon>
 
           <v-list-item-content>
@@ -62,7 +62,7 @@
           </v-list-item-content>
         </v-list-item>
 
-        <v-list-item link to="/generated">
+        <v-list-item link to="/data">
           <v-list-item-icon>
             <v-icon left color="#DDE2FF">mdi-database </v-icon>
           </v-list-item-icon>
@@ -73,19 +73,8 @@
             >
           </v-list-item-content>
         </v-list-item>
-        
-        <v-list-item link to="/maps-month">
-          <v-list-item-icon>
-            <v-icon left color="#DDE2FF">mdi-calendar </v-icon>
-          </v-list-item-icon>
-          <v-list-item-content>
-            <v-list-item-title style="color: #898989;" class="subtitle-1"
-              >Mapas mensais</v-list-item-title
-            >
-          </v-list-item-content>
-        </v-list-item>
 
-        <v-list-item link to="/noticias">
+        <v-list-item link to="/news">
           <v-list-item-icon>
             <v-icon left color="#DDE2FF">mdi-newspaper-variant-multiple </v-icon>
           </v-list-item-icon>
@@ -120,32 +109,7 @@
 
 <script>
 export default {
-  data: () => ({
-    drawer: false,
-    items: [
-      {
-        text: 'Propostas',
-        disabled: false,
-        href: 'home',
-        to: '/dashboard',
-        link: true,
-      },
-      {
-        text: 'Usuários',
-        disabled: false,
-        href: 'Users',
-        to: '/users',
-        link: true,
-      },
-      {
-        text: 'Dados gerados',
-        disabled: false,
-        href: 'Generated',
-        to: '/generated',
-        link: true,
-      },
-    ],
-  }),
+  data: () => ({}),
 }
 </script>
 

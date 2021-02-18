@@ -58,7 +58,7 @@
 
 <script>
 export default {
-  name: 'Generated',
+  name: 'Data',
   data: () => ({}),
 }
 </script>
