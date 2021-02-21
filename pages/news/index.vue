@@ -15,7 +15,7 @@
                 <v-img
                   class="white--text align-end"
                   height="200px"
-                  src="https://midias.agazeta.com.br/2020/06/10/alem-de-aumentar-o-intervalo-entre-as-consultas-medicos-adotaram-o-uso-de-alcool-em-gel-para-pacientes-e-funcionarios-261087-article.jpg"
+                  src="https://bn1304files.storage.live.com/y4mYN9IFfWDNG5RujMHDRFtefgpWqkTVWscOxaoIOnmdAB4kR8BRNQ1tV7vcjaTiprXy1vigMGyylVda91tb37OpT6pMjRCTdOlEAvR2YiCsc0P-z3DcCKQ2iRlg9zokgtINEjCtjJFn94GuHcWQWN8tcEmLokQTKOJUlCeiI3qe2bOTnxlnEZsMemOjFIvyUsg?width=1024&height=576&cropmode=none"
                 >
                 </v-img>
                 <v-card-subtitle class="legenda_card">

@@ -20,7 +20,7 @@
       </div>
         <br><br>
         <center>
-          <img class="foto" src="https://midias.agazeta.com.br/2021/01/22/chegadas-dos-pacientes-com-covid-19-vindos-de-manaus-404792-article.jpg" alt="Imagem de capa">
+          <img class="foto" src="https://bn1304files.storage.live.com/y4mYN9IFfWDNG5RujMHDRFtefgpWqkTVWscOxaoIOnmdAB4kR8BRNQ1tV7vcjaTiprXy1vigMGyylVda91tb37OpT6pMjRCTdOlEAvR2YiCsc0P-z3DcCKQ2iRlg9zokgtINEjCtjJFn94GuHcWQWN8tcEmLokQTKOJUlCeiI3qe2bOTnxlnEZsMemOjFIvyUsg?width=1024&height=576&cropmode=none" alt="Imagem de capa">
         </center>
       </div>
     <div class="corpo">

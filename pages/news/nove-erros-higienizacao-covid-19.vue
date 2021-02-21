@@ -20,7 +20,7 @@
       </div>
         <br><br>
         <center>
-          <img class="foto" src="http://s2.glbimg.com/pXocS1_kCx8kPPvpLM1GL9-FCQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/A/p/pSGxAEQAG3mTWxdLocyQ/foto-1-conteudo-3.jpg" alt="Imagem de capa">
+          <img class="foto" src="https://bn1304files.storage.live.com/y4mYN9IFfWDNG5RujMHDRFtefgpWqkTVWscOxaoIOnmdAB4kR8BRNQ1tV7vcjaTiprXy1vigMGyylVda91tb37OpT6pMjRCTdOlEAvR2YiCsc0P-z3DcCKQ2iRlg9zokgtINEjCtjJFn94GuHcWQWN8tcEmLokQTKOJUlCeiI3qe2bOTnxlnEZsMemOjFIvyUsg?width=4000&height=2250&cropmode=none" alt="Imagem de capa">
         </center>
       </div>
     <div class="corpo">
