@@ -1,11 +1,11 @@
 <template>
   <v-row xs12 :style="$vuetify.breakpoint.xs ? 'padding-top:60px;' : ''">
-    <v-col :cols="$vuetify.breakpoint.xs ? '12' : '8'">
+    <v-col id="espacamento-topo" :cols="$vuetify.breakpoint.xs ? '12' : '8'">
       <Map />
     </v-col>
-    <v-col class="pt-0">
+    <v-col class="pt-6">
       <v-row>
-        <v-col class="mx-3">
+        <v-col class="mx-3" id="espacamento-topo">
           <v-row>
             <CardInformation
               title="Casos registrados"
@@ -38,7 +38,7 @@
             />
           </v-row>
           <div class="mt-1 d-flex justify-end">
-            <h6>
+            <h6 id="informacao-dos-dados">
               Dados atualizados até o dia
               {{ informations.date_register | formatDateTime }}
             </h6>
@@ -94,4 +94,11 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+#espacamento-topo{
+  margin-top: 20px;
+}
+#informacao-dos-dados{
+  margin-top: 30px;
+}
+</style>

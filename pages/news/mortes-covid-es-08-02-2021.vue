@@ -38,7 +38,7 @@
       <br><br>
       <h1 class="titulo-02">Leitos</h1>
       <center>
-        <img class="foto" src="http://www.aen.pr.gov.br/modules/galeria/uploads/61159/normal__MG_2708.jpg" alt="Leitos covid">
+        <img class="foto" src="https://bn1304files.storage.live.com/y4maETIH5Eq2B95KtGapAYqTVjQDU_-7Hg7_RM1SH0hQC30lbt4CDffy4Hehhz_0bNkdT4r64xsCX9tn8KO6AkR2RZO4sfZfS4qYl764C3z4k_EIgWGHS8cdqoFuTNiII8vvja56hru2XvkevduD4M3PZ6eVIGZIum8GHTVCS3klKAXUEwhnJddEolBGKAQrB3C?width=1920&height=1280&cropmode=none" alt="Leitos covid">
       </center>
       <br>
       <p class="texto">
