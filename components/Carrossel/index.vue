@@ -34,8 +34,8 @@ export default {
         },
       ],
       slides: [
-          'Máscaras com válvulas foram proibidas nos voos no ES',
-          'Vacinação para profissionais fora da linha de frente',
+          'Máscaras com válvulas são proibidas em voos no ES',
+          'Vacinação de profissionais fora da linha de frente',
           '9 erros de higiene que as pessoas ainda cometem',
           'Pacientes de Manaus curados de Covid-19 no ES',
           'Retrospestiva 2020 dos casos de Covid-19 no ES',
