@@ -131,7 +131,7 @@
                 >
                 </v-img>
                 <v-card-subtitle class="legenda_card">
-                  08/02/2021 - <b>G1 Espírito Santo</b>
+                  08/02/2021 - <b>G1 - Espírito Santo</b>
                 </v-card-subtitle>
                 <v-card-title class="titulo_card"
                   >ES chega a quase 6 mil mortes e 300 mil casos confirmados de Covid-19</v-card-title>
