@@ -208,6 +208,7 @@ export default {
 }
 .legenda_card {
   margin-bottom: -30px;
+  text-align: center !important;
 }
 .blog {
   margin-top: 20%;
