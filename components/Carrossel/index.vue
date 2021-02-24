@@ -37,8 +37,8 @@ export default {
           'Máscaras com válvulas são proibidas em voos no ES',
           'Vacinação de profissionais fora da linha de frente',
           '9 erros de higiene que as pessoas ainda cometem',
-          'Pacientes de Manaus curados de Covid-19 no ES',
-          'Retrospestiva 2020 dos casos de Covid-19 no ES',
+          'Pacientes de Manaus são curados de Covid-19 no ES',
+          'Retrospestiva de 2020 dos casos de Covid-19 no ES',
         ],
     }
   },
@@ -66,13 +66,13 @@ export default {
 /**MOBILE PORTRAIT**/
 @media (min-width: 320px) {
   .carrossel{
-    height: 400px !important;
+    height: 430px !important;
   }
   .display{
     font-size: 35px !important;
     line-height: 45px !important;
-    padding: 50px;
-    margin-top: 25px !important;
+    padding: 20px;
+    margin-top: 70px !important;
     margin: 0;
   }
 }
