@@ -1,28 +1,40 @@
 <template>
   <v-card
     class="d-flex justify-center rounded-lg"
-    style="height: 600px; position: relative;"
+    style="height: 600px; position: relative"
   >
     <iframe
       v-if="mapCases"
-      style="width: 100%; height: 600px; position: absolute; object-fit: cover; border: none;"
+      style="
+        width: 100%;
+        height: 600px;
+        position: absolute;
+        object-fit: cover;
+        border: none;
+      "
       title="Casos Diagnosticados de Covid 19 para o Espírito Santo"
       :src="getUrl('cases')"
     >
     </iframe>
     <iframe
       v-else
-      style="width: 100%; height: 600px; position: absolute; object-fit: cover; border: none;"
+      style="
+        width: 100%;
+        height: 600px;
+        position: absolute;
+        object-fit: cover;
+        border: none;
+      "
       title="Mapa Vulnerabilidade do Espírito Santo"
       :src="getUrl('vulnerabilited')"
     >
     </iframe>
     <div
       class="d-flex justify-center primary rounded-lg px-12 mt-4 py-1"
-      style="position: absolute;"
+      style="position: absolute"
     >
       <span class="title white--text">{{ selected.title }}</span>
-      <v-tooltip bottom>
+      <!-- <v-tooltip bottom>
         <template v-slot:activator="{ on, attrs }">
           <v-icon
             @click="openDialog = true"
@@ -35,13 +47,11 @@
           >
         </template>
         <span>Alterne entre os mapas </span>
-      </v-tooltip>
+      </v-tooltip> -->
     </div>
     <v-dialog width="400" v-model="openDialog">
       <v-card>
-        <v-card-title>
-          Selecione mapa que deseja visualizar
-        </v-card-title>
+        <v-card-title> Selecione mapa que deseja visualizar </v-card-title>
         <v-divider />
         <v-flex pa-2 d-flex justify-center flex-column>
           <v-btn
@@ -75,7 +85,7 @@
 export default {
   name: 'Map',
   data: () => ({
-    mapCases: true,
+    mapCases: false,
     openDialog: false,
     selected: {
       title: 'Mapa de novos casos',
