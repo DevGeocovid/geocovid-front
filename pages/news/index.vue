@@ -1,9 +1,69 @@
 <template>
   <div class="blog">
-    <Carrossel id="carrossel" />
-    <br /><br />
+    <v-img class="carrossel"
+      src="https://bn1304files.storage.live.com/y4msLbTAx_Kl9KtXDT2EkixqNbUtlWY1veU5Vy773q080HeS6ZZ3HVKro19IFXPbNhk2jTkcYAE9I1JVx78AnQWKCVLRG09dbBXZkozJV3YE98w4fDlyCDlQZMNcpZ-9GsUOh_YCVfOanDPf0dcx5VsWjvWQGtJkFpawof_SGN7lYfm6jEbydDMCb5RC9Yp4U_O?width=1300&height=600&cropmode=none"
+    >
+    <!--TÍTULO - NOTÍCIAS-->
+      <div class="display-3">
+        <h1 class="display">Veja as principais notícias <br>sobre covid-19 no Espírito Santo</h1>
+      </div>
+    </v-img>
+    <div id="titulo" class="mx-auto">
+      <div class="d-flex justify-center primary rounded-lg px-12 mt-4 py-1" style="position:;">
+      <span class="title white--text">NOTÍCIAS</span></div>
+    </div>
     <div class="container">
       <div class="row">
+      <!--CARD 06-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/por-que-mascaras-com-valvulas-foram-proibidas-nos-voos-no-es-0221" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2020/06/22/empresas-terao-que-adotar-mascaras-no-ambiente-de-trabalhoma-267248-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  24/02/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Por que máscaras com válvulas foram proibidas nos voos no ES?</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+        <!--FIM CARD 06-->
+      <!--CARD 05-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/prefeituras-do-es-agendam-vacinacao-para-profissionais-fora-da-linha-de-frente-0221" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/01/22/vacina-coronavac-405100-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  24/02/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">ES agenda vacinação para profissionais fora da linha de frente</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+        <!--FIM CARD 05-->
       <!--CARD 04-->
         <div class="col">
           <div class="noticia">
@@ -19,7 +79,7 @@
                 >
                 </v-img>
                 <v-card-subtitle class="legenda_card">
-                  18/02/2021
+                   18/02/2021 - <b>A Gazeta</b>
                 </v-card-subtitle>
                 <v-card-title class="titulo_card">Covid-19: nove erros de higienização que as pessoas ainda cometem</v-card-title>
                 <v-card-text class="text--primary">
@@ -45,12 +105,10 @@
                 >
                 </v-img>
                 <v-card-subtitle class="legenda_card">
-                  16/02/2021
+                  16/02/2021 - <b>A Gazeta</b>
                 </v-card-subtitle>
                 <v-card-title class="titulo_card"
-                  >Dois pacientes de Manaus curados de Covid-19 no
-                  ES</v-card-title
-                >
+                  >Dois pacientes de Manaus curados de Covid-19 no ES</v-card-title>
                 <v-card-text class="text--primary"> </v-card-text>
               </v-card>
             </a>
@@ -73,12 +131,10 @@
                 >
                 </v-img>
                 <v-card-subtitle class="legenda_card">
-                  08/02/2021
+                  08/02/2021 - <b>G1 - Espírito Santo</b>
                 </v-card-subtitle>
                 <v-card-title class="titulo_card"
-                  >ES chega a quase 6 mil mortes e 300 mil casos confirmados de
-                  Covid-19</v-card-title
-                >
+                  >ES chega a quase 6 mil mortes e 300 mil casos confirmados de Covid-19</v-card-title>
                 <v-card-text class="text--primary"> </v-card-text>
               </v-card>
             </a>
@@ -101,12 +157,10 @@
                 >
                 </v-img>
                 <v-card-subtitle class="legenda_card">
-                  02/02/2021
+                  02/02/2021 - <b>GeoCovid</b>
                 </v-card-subtitle>
                 <v-card-title class="titulo_card"
-                  >Retrospestiva de 2020 dos casos de covid-19 no Espírito
-                  Santo</v-card-title
-                >
+                  >Retrospestiva de 2020 dos casos de covid-19 no Espírito Santo</v-card-title>
                 <v-card-text class="text--primary"> </v-card-text>
               </v-card>
             </a>
@@ -127,8 +181,22 @@ export default {
 
 <style>
 /**TÍTULO DO CARROSSEL**/
-#titulo {
-  display: none;
+#titulo{
+  margin-bottom: 38px;
+  width: 200px;
+  text-align: center;
+}
+.display{
+  font-size: 50px;
+  font-weight: 500;
+  opacity: 1;
+  text-align: center;
+  margin: 200px;
+  line-height: 60px !important;
+  transition: background-color .3s ease-in-out;
+  color: white;
+  padding: 0;
+  text-transform: uppercase;
 }
 .cards {
   margin-top: 30px;
@@ -140,12 +208,20 @@ export default {
 }
 .legenda_card {
   margin-bottom: -30px;
+  text-align: center !important;
 }
 .blog {
   margin-top: 20%;
   margin-left: auto;
   margin-right: auto;
 }
+/**CARROSSEL E TÍTULO**/
+@media (min-width: 320px) and (max-width: 799px){
+  .carrossel{
+    display: none;
+  }
+}
+
 @media (min-height: 320px) and (orientation: landscape) {
   .blog {
     margin-top: 1%;
@@ -157,6 +233,71 @@ export default {
     margin-top: 3%;
     max-width: 90%;
     text-align: center;
+  }
+}
+/**MOBILE PORTRAIT**/
+@media (min-width: 320px) {
+  .carrossel{
+    height: 400px !important;
+  }
+  .display{
+    font-size: 35px !important;
+    line-height: 45px !important;
+    padding: 50px;
+    margin-top: 25px !important;
+    margin: 0;
+  }
+}
+/**MOBILE LANDSCAPE**/
+@media (min-height: 321px) and (min-width: 320px) and (orientation: landscape){
+  .carrossel{
+    height: 300px !important;
+  }
+  .display{
+    font-size: 38px !important;
+    padding: 60px;
+    margin-top: 0px !important;
+  }
+}
+@media (min-width: 720px) and (max-height: 800px){
+  .carrossel{
+    height: 300px !important;
+  }
+  .display{
+    font-size: 30px !important;
+    font-weight: 500;
+    line-height: 50px;
+    margin-top: 30px !important;
+    margin: 20px;
+  }
+}
+@media (min-width: 800px) {
+  #titulo {
+    display: none;
+  }
+  .carrossel{
+    margin-bottom: 50px;;
+  }
+}
+/**PC 720p**/
+@media (min-width: 1280px){
+  .display{
+    font-size: 42px !important;
+    padding: 50px;
+    margin-top: 50px !important;
+  }
+}
+/**PC 1080p**/
+@media (min-width: 1920px){
+  .carrossel{
+    height: 400px !important;
+  }
+  .display{
+    font-size: 50px !important;
+    padding: 0;
+    margin-top: 130px !important;
+    margin: 200px ;
+    line-height: 70px !important;
   }
 }
 </style>
