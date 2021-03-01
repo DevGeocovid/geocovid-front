@@ -14,6 +14,56 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 08-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/a-terceira-onda-da-covid-foi-anunciada-diz-secretario-de-saude-do-es-0221" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2020/11/04/secretario-de-estado-da-saude-nesio-fernandes-em-pronunciamento-nesta-quarta-feira-09-353136.jpeg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  01/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">"A terceira onda da Covid foi anunciada", diz secretário de Saúde do ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+        <!--FIM CARD 08-->
+        <!--CARD 07-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/02/27/prefeituras-da-grande-vitoria-abrem-vagas-de-agendamento-para-vacinacao-contra-covid-19.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/yGQEALi9gv9NoIdItEJFeybbGhY=/0x0:984x535/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/x/J/Vju35wRNATqmGPn5mbqg/esc-vacinacao-19-01-21-cd4710df-1-.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  01/03/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Cidades da Grande Vitória abrem vagas de agendamento para vacinação contra Covid-19</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+        <!--FIM CARD 07-->
       <!--CARD 06-->
         <div class="col">
           <div class="noticia">
