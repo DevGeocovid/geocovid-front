@@ -1,6 +1,6 @@
 <template>
   <div class="container-fluid">
-    <v-carousel cycle="2s" class="carrossel">
+    <v-carousel cycle="true" class="carrossel">
       <a target="blank" style="text-decoration: none;" href="/news">
         <v-carousel-item
           target="_blank"
