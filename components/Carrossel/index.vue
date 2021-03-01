@@ -35,7 +35,7 @@ export default {
       ],
       slides: [
           'Secretário de Saúde do ES anuncia Terceira Onda',
-          'Agendamento na Grande para vacinação contra Covid-19',
+          'Agendamento na Grande Vitória para vacinação contra Covid-19',
           'Máscaras com válvulas são proibidas em voos no ES',
           'Vacinação de profissionais fora da linha de frente',
           '9 erros de higiene que as pessoas ainda cometem',
