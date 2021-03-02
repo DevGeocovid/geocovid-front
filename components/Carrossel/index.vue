@@ -34,12 +34,12 @@ export default {
         },
       ],
       slides: [
+          '16 pacientes de Santa Catarina serão tranferidos para UTIs do ES',
           'Secretário de Saúde do ES anuncia Terceira Onda',
           'Agendamento na Grande Vitória para vacinação contra Covid-19',
           'Máscaras com válvulas são proibidas em voos no ES',
           'Vacinação de profissionais fora da linha de frente',
           '9 erros de higiene que as pessoas ainda cometem',
-          'Pacientes de Manaus são curados de Covid-19 no ES',
           'Retrospestiva de 2020 dos casos de Covid-19 no ES',
         ],
     }
