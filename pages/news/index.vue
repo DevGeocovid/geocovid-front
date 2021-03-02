@@ -14,6 +14,31 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 09-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/sc/santa-catarina/noticia/2021/03/02/pacientes-de-sc-com-covid-19-serao-transferidos-para-utis-do-es.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/iEQfcvWDHxxv_RtPYn6ejAJ1YnM=/0x0:1140x641/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/t/K/LmbJq8QdC7CjYINxkWZw/hospital-regional-do-oeste-em-chapeco.jpeg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  02/03/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Governo de Santa Catarina transferirá 16 pacientes com Covid-19 para UTIs do Espírito Santo</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+        <!--FIM CARD 09-->
       <!--CARD 08-->
         <div class="col">
           <div class="noticia">
