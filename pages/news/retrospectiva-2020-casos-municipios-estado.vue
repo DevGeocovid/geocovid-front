@@ -83,7 +83,7 @@
         <p>Em Nova Venécia:</p>
         <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKtdKpBnRta/embed" frameborder="0"></iframe>
       </div>
-      <h1 class="titulo-02">Sobre o GeoCovid ES</h1>
+      <h1 class="titulo-02">Sobre o Projeto GeoCovid ES</h1>
       <center>
         <img src="https://bn1304files.storage.live.com/y4mhbCCPBLrkq_ap8EOj76Lh9mL2K7cr20PHx9u2M0pqqnqhBdDaKT0OZHou329TmaDZwXiGhIHjrONAUOViOIu2qMd9irLUP0EC6Us_A5kJq60xgq3P5PlFhzBT-g1nUOu-rC-Il7l17lltr-hLNu85j6RUh8JOIfDfXKIpjoreEi2KLyKKZcmJP9FkaSRWFOn?width=479&height=278&cropmode=none" width="90%" />
       </center>

@@ -14,10 +14,60 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 11-->
+        <div class="col">
+          <div class="noticia">
+            <a href="news/faixa-etaria-casos-confirmados-covid-es" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://veja.abril.com.br/wp-content/uploads/2020/04/gettyimages-1215609255.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  05/03/2021 - <b>GeoCovid ES</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Veja as principais Faixas Etárias dos casos de Covid-19 no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 11-->
+      <!--CARD 10-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/como-estao-os-pacientes-de-outros-estados-transferidos-para-o-es-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/02/07/primeiro-paciente-vindo-de-rondonia-que-chegou-neste-domingo-as-14h-no-aeroporto-de-vitoria-o-paciente-foi-transferido-para-o-hospital-estadual-dr-jayme-santos-neves---415262-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  04/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Como estão os pacientes de outros Estados transferidos para o ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 10-->
       <!--CARD 09-->
         <div class="col">
           <div class="noticia">
-            <a href="https://g1.globo.com/sc/santa-catarina/noticia/2021/03/02/pacientes-de-sc-com-covid-19-serao-transferidos-para-utis-do-es.ghtml" target="_blank" class="text-decoration-none">
+            <a href="" target="_blank" class="text-decoration-none">
               <v-card
                 class="mx-auto"
                 max-width="400"
@@ -31,7 +81,7 @@
                 <v-card-subtitle class="legenda_card">
                   02/03/2021 - <b>G1 - Espírito Santo</b>
                 </v-card-subtitle>
-                <v-card-title class="titulo_card">Governo de Santa Catarina transferirá 16 pacientes com Covid-19 para UTIs do Espírito Santo</v-card-title>
+                <v-card-title class="titulo_card">Governo de Santa Catarina transferirá pacientes com Covid-19 para o ES</v-card-title>
                 <v-card-text class="text--primary">
                 </v-card-text>
               </v-card>
@@ -142,7 +192,7 @@
       <!--CARD 04-->
         <div class="col">
           <div class="noticia">
-            <a href="/news/nove-erros-higienizacao-covid-19" target="" class="text-decoration-none">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-nove-erros-de-higienizacao-que-as-pessoas-ainda-cometem-0221" target="" class="text-decoration-none">
               <v-card
                 class="mx-auto"
                 max-width="400"
@@ -168,7 +218,7 @@
         <div class="col">
           <div class="noticia">
             <a
-              href="/news/dois-pacientes-de-manaus-curados-de-covid-no-es"
+              href="https://www.agazeta.com.br/es/cotidiano/mais-dois-pacientes-de-manaus-curados-da-covid-no-es-tem-alta-do-hospital-0221"
               target=""
               class="text-decoration-none"
             >
@@ -194,7 +244,7 @@
         <div class="col">
           <div class="noticia">
             <a
-              href="/news/mortes-covid-es-08-02-2021"
+              href="https://g1.globo.com/es/espirito-santo/noticia/2021/02/06/es-chega-a-5986-mortes-e-301861-casos-confirmados-de-covid-19.ghtml"
               target=""
               class="text-decoration-none"
             >
@@ -232,7 +282,7 @@
                 >
                 </v-img>
                 <v-card-subtitle class="legenda_card">
-                  02/02/2021 - <b>GeoCovid</b>
+                  02/02/2021 - <b>GeoCovid ES</b>
                 </v-card-subtitle>
                 <v-card-title class="titulo_card"
                   >Retrospestiva de 2020 dos casos de covid-19 no Espírito Santo</v-card-title>

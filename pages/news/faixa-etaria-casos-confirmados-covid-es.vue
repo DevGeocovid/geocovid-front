@@ -2,9 +2,9 @@
 <center>
   <div class="container">
     <div class="cabecalho">
-      <p class="informacao">08/02/2021</p>
-      <h1 class="titulo">ES chega a 5.995 mortes e 302.854 casos confirmados de Covid-19</h1>
-      <p class="texto">Na comparação com os dados divulgados nesse sábado (6), o aumento é de 9 mortes e 993 novos casos da doença.</p>
+      <p class="informacao">05/03/2021</p>
+      <h1 class="titulo">Principais Faixas Etárias dos casos de Covid-19 no ES</h1>
+      <p class="texto">Cerca de 77% dos casos confimados de covid-19 no estado foram entre pessoas de 20 a 59 anos. Veja a representação gráfica!</p>
       <br>
       <p class="informacao" style="font-weight: 500">Curta e compartilhe!</p>
       <div class="share">
@@ -20,33 +20,23 @@
       </div>
         <br><br>
         <center>
-          <img class="foto" src="https://s2.glbimg.com/ObW7kkhOorqEqyqVXSGzZOLGYY0=/0x0:1700x1065/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/r/s/q3NLI6RbA57U5eBnGGzA/mortes-coronavirus.jpg" alt="Imagem de capa">
+          <img class="foto" src="https://veja.abril.com.br/wp-content/uploads/2020/04/gettyimages-1215609255.jpg" alt="Imagem de capa">
         </center>
       </div>
     <div class="corpo">
-      <p class="texto">O Espírito Santo registrou, até este domingo (7), <b style="color: #181B34;">5.995 mortes por Covid-19</b>. O número de <b style="color: #181B34;">casos confirmados chegou a 302.854</b>. O índice de <b style="color: #181B34;">letalidade da doença no estado é de 2%</b>. Os dados foram divulgados na plataforma Painel Covid-19, do Governo do Estado.
-      <br><br>
-      Na comparação com <a style="color: #181B34;" href="https://g1.globo.com/es/espirito-santo/noticia/2021/02/06/es-chega-a-5986-mortes-e-301861-casos-confirmados-de-covid-19.ghtml" target="_blank">os dados divulgados no sábado (6),</a><b style="color: #181B34;">o aumento é de nove mortes e 993 novos casos da doença.</b>
-      <br><br>
-      As novas confirmações não significam, necessariamente, que as mortes e casos aconteceram de um dia para o outro, mas que foram contabilizadas no sistema neste período.
-      <br><br>
-      Até o momento, <b style="color: #181B34;">283.831 pessoas estão curadas</b> e 911.072 testes foram feitos. Além disso, há 193.686 casos suspeitos e outros 456.469 foram descartados.
-      <br><br>
-      Vale ressaltar que a confirmação de casos é lançada no sistema utilizado pelo Governo do ES no dia referente à coleta da amostra do paciente, enquanto a divulgação para o público externo ocorre apenas no dia que sai o resultado positivo para a doença.
-      <br><br>
-      O sistema usado pelo Espírito Santo para atualizar os números também contabiliza pacientes residentes em outros estados que fizeram a testagem em cidades capixabas.
-      <br><br>
-      <h1 class="titulo-02">Leitos</h1>
+      <p class="texto">Os gráficos relatam as principais Faixas Etárias dos casos confirmados de Covid-19 no estado do Espírito Santo.<br><br>Veja abaixo:</p>
+      <br>
       <center>
-        <img class="foto" src="https://bn1304files.storage.live.com/y4maETIH5Eq2B95KtGapAYqTVjQDU_-7Hg7_RM1SH0hQC30lbt4CDffy4Hehhz_0bNkdT4r64xsCX9tn8KO6AkR2RZO4sfZfS4qYl764C3z4k_EIgWGHS8cdqoFuTNiII8vvja56hru2XvkevduD4M3PZ6eVIGZIum8GHTVCS3klKAXUEwhnJddEolBGKAQrB3C?width=1920&height=1280&cropmode=none" alt="Leitos covid">
+      <h2 class="titulo-02">CASOS ENTRE 20 E 59 ANOS:</h2>
+      <img src="https://bn1304files.storage.live.com/y4mPY34fwSkTldl25ZYzJ0LO-c0DT_IfmCUqJy9oU_wLga4syNzaYw8pxpm8GxNQYgrLpCRxUiP4Rsaxsk8DY7Z2XhZOTlxEIjenXxQ8FqsMj7xwoneI7LeSkfI0_PLHaCip5HCvdLE-v8P3tom0oerw9o3Fnpyfd5cWaiila6fFQ0mjW35Epy_D5EJPS_Mn1Wi?width=1080&height=1080&cropmode=none" width="100%">
+      <br>
+      <h2 class="titulo-02">CASOS ENTRE TODAS AS FAIXAS ETÁRIAS:</h2>
+      <img src="https://bn1304files.storage.live.com/y4musZwpNlBdq1wTtDoB05MMX5CqduAjKyHO9TasaFWtCep4E9yCuG0vtzD_K-oZfQi-OQkvFwJn7RUVA306T_JxXe_jx7_Y57rGv-5PFCZzgT8sy_QtgmWx7BcTFHgvdbxo0s50AwBQpeWfo6F2Mi5O3TmQllIlb9TUHYVrk8W2uHDbvdNVeC2MzzOXMfvDetC?width=1080&height=1080&cropmode=none" width="100%"/>
       </center>
-      <br>
-      <p class="texto">
-      Em todo o Espírito Santo, a taxa de ocupação dos leitos de UTI destinados a pacientes com Covid-19 está em 72,65% neste domingo. Ao todo, 486 pacientes estão internados em leitos de UTI e 399 em leitos de enfermaria.</p>
-      <br>
-      <b style="color: #181B34;">Fonte da notícia: </b><a style="color: #181B34;" href="https://g1.globo.com/es/espirito-santo/noticia/2021/02/06/es-chega-a-5986-mortes-e-301861-casos-confirmados-de-covid-19.ghtml" target="_blank">https://g1.globo.com/es/espirito-santo/noticia/2021/02/07/es-chega-a-5995-mortes-e-302854-casos-confirmados-de-covid-19.ghtml</a>
       <br><br>
-      <h1 class="titulo-02">Sobre o GeoCovid ES</h1>
+      <p class="texto">Os dados foram tirados do <a style="color: #181B34;" href="https://coronavirus.es.gov.br/painel-covid-19-es" target="_blank"><b style="color: #181B34;">Painel Covid-19 do Governo do Espírito Santo</b></a>.</p>
+      <br><br>
+      <h1 class="titulo-02">Sobre o Projeto GeoCovid ES</h1>
       <center>
         <img src="https://bn1304files.storage.live.com/y4mhbCCPBLrkq_ap8EOj76Lh9mL2K7cr20PHx9u2M0pqqnqhBdDaKT0OZHou329TmaDZwXiGhIHjrONAUOViOIu2qMd9irLUP0EC6Us_A5kJq60xgq3P5PlFhzBT-g1nUOu-rC-Il7l17lltr-hLNu85j6RUh8JOIfDfXKIpjoreEi2KLyKKZcmJP9FkaSRWFOn?width=479&height=278&cropmode=none" width="90%" />
       </center>
@@ -169,7 +159,7 @@
   }
 }
   /**MOBILE LANDSCAPE**/
-@media (min-height: 320px) and (orientation: landscape){
+  @media (min-height: 320px) and (orientation: landscape){
   .cabecalho{
     width: 90%;
   }
