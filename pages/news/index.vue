@@ -17,7 +17,7 @@
       <!--CARD 11-->
         <div class="col">
           <div class="noticia">
-            <a href="news/faixa-etaria-casos-confirmados-covid-es" target="_blank" class="text-decoration-none">
+            <a href="/news/faixa-etaria-casos-confirmados-covid-es" target="_blank" class="text-decoration-none">
               <v-card
                 class="mx-auto"
                 max-width="400"
