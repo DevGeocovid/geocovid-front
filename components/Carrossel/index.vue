@@ -34,9 +34,9 @@ export default {
         },
       ],
       slides: [
+          'Taxa de transmissão aponta que ES terá aumento de internações e óbitos',
           'Veja as principais Faixas Etárias dos casos de Covid-19 no ES',
           'Como estão os pacientes de outros Estados transferidos para o ES',
-          'Máscaras com válvulas são proibidas em voos no ES',
           '9 erros de higiene que as pessoas ainda cometem',
           'Retrospestiva de 2020 dos casos de Covid-19 no ES',
         ],

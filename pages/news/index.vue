@@ -14,6 +14,31 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 12-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-taxa-de-transmissao-aponta-que-es-tera-aumento-de-internacoes-e-obitos-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/01/22/chegadas-dos-pacientes-com-covid-19-vindos-de-manaus-404777-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  07/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Taxa de transmissão aponta que ES terá aumento de internações e óbitos</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 12-->
       <!--CARD 11-->
         <div class="col">
           <div class="noticia">
