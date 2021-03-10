@@ -14,6 +14,31 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 13-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/03/09/mais-50-mil-doses-de-vacina-contra-a-covid-19-chegam-ao-es.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/BOgqQlQ4jsNjtZ_x0S4nZaqq7l8=/0x0:700x410/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/Q/d/ocjSx0T1ArcsNRKcwCwQ/doses.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  10/03/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Mais 50 mil doses de vacina contra a Covid-19 chegam ao ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 13-->
       <!--CARD 12-->
         <div class="col">
           <div class="noticia">
