@@ -34,12 +34,12 @@ export default {
         },
       ],
       slides: [
-          'Taxa de transmissão aponta que ES terá aumento de internações e óbitos',
-          'Veja as principais Faixas Etárias dos casos de Covid-19 no ES',
-          'Como estão os pacientes de outros Estados transferidos para o ES',
-          '9 erros de higiene que as pessoas ainda cometem',
-          'Retrospestiva de 2020 dos casos de Covid-19 no ES',
-        ],
+        'Mais 50 mil doses de vacina contra a Covid-19 chegam ao ES',
+        'Taxa de transmissão aponta que ES terá aumento de internações e óbitos',
+        'Veja as principais Faixas Etárias dos casos de Covid-19 no ES',
+        '9 erros de higiene que as pessoas ainda cometem',
+        'Retrospestiva de 2020 dos casos de Covid-19 no ES',
+      ],
     }
   },
 }
