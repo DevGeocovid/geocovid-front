@@ -14,6 +14,31 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 14-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/coronavirus-matriz-de-risco-do-es-deve-passar-por-mudancas-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://www.saudebusiness.com/sites/saudebusiness.com/files/styles/article_featured_retina/public/uploads/2020/07/woman-in-blue-shirt-wearing-face-mask-3881247-e1594392219265.jpg?itok=nyQ6ndRy"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  12/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Coronavírus: Matriz de Risco do ES deve passar por mudanças</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 14-->
       <!--CARD 13-->
         <div class="col">
           <div class="noticia">
