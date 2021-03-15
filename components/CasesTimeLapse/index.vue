@@ -8,3 +8,14 @@
     />
   </div>
 </template>
+
+<style>
+  .instagram-frame{
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  color: #181B34;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+</style>

@@ -34,6 +34,7 @@ export default {
         },
       ],
       slides: [
+        'Restrições começam a valer em 17 cidades com risco alto no ES',
         'Coronavírus: Matriz de Risco do ES deve passar por mudanças',
         'Mais 50 mil doses de vacina contra a Covid-19 chegam ao ES',
         'Veja as principais Faixas Etárias dos casos de Covid-19 no ES',

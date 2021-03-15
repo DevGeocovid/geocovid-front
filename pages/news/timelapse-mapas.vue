@@ -2,7 +2,7 @@
 <center>
   <div class="container">
     <div class="cabecalho">
-      <p class="informacao">12/03/2021</p>
+      <p class="informacao">16/03/2021</p>
       <h1 class="titulo">1 ANO de casos de covid-19 no ES em 20 SEGUNDOS</h1>
       <p class="texto">Veja um Vídeo Timelapse com os Mapas Diários e os Mapas com Total de Casos Acumulados e Densidade por mil habitantes no ES.</p>
       <br>
@@ -31,7 +31,7 @@
         <p>Veja o vídeo timelapse com os mapas que foi postado em nosso perfil no Instagram:</p>
         <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CKHTiYgMwY7/embed" frameborder="0"></iframe>
       </div>
-      <p class="texto">Tenha acesso a todos os Mapas e Dados do vídeo em nossa página <a class="links" href="././data" target="_blank"><b style="color: #181B34;">Dados gerados.</b></a><p>
+      <p class="texto">Tenha acesso a todos os Mapas e Dados do vídeo em nossa página <a class="links" href="../data" target="_blank"><b style="color: #181B34;">Dados gerados.</b></a><p>
       <br><br>
       <h1 class="titulo-02">Sobre o Projeto GeoCovid ES</h1>
       <center>

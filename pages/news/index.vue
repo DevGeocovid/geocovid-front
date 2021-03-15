@@ -14,6 +14,31 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 15-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.folhavitoria.com.br/geral/noticia/03/2021/novo-mapa-de-risco-entra-em-vigor-com-restricoes-em-17-cidades-saiba-o-que-muda-no-seu-municipio" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://assets.folhavitoria.com.br/images/bf243440-c25d-0135-7e8d-6231c35b6685--minified.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  15/03/2021 - <b>Folha Vitória</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Restrições começam a valer em 17 cidades com risco alto no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 15-->
       <!--CARD 14-->
         <div class="col">
           <div class="noticia">
