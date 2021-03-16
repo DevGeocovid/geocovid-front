@@ -34,9 +34,10 @@ export default {
         },
       ],
       slides: [
-        'Mais 50 mil doses de vacina contra a Covid-19 chegam ao ES',
-        'Taxa de transmissão aponta que ES terá aumento de internações e óbitos',
-        'Veja as principais Faixas Etárias dos casos de Covid-19 no ES',
+        '1 ANO de casos de covid-19 no ES em 20 SEGUNDOS',
+        'Casagrande anuncia medidas rígidas para combate à Covid-19 no ES',
+        'Covid-19: ES chega a 91% de ocupação de leitos de UTI',
+        'Restrições começam a valer em 17 cidades com risco alto no ES',
         '9 erros de higiene que as pessoas ainda cometem',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
       ],
