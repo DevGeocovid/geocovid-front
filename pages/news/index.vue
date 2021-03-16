@@ -14,6 +14,81 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 18-->
+        <div class="col">
+          <div class="noticia">
+            <a href="/news/timelapse-mapas-municipios" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://bn1304files.storage.live.com/y4mqrQxkEwX6SAAs8cegsQPuv4sIM1tUZ2DPSDrPUIuy7lJhSmja6jmWMIuwZ6vOX5fP3Od-o-BcXVlnTrwqA-zj-m84xefxTTLQJVMDrNNAUy6dQ8yl5lcmGIGgMtm1av53UzjzGnxhsF_rmMtcBP6tLKGoYzjqFA7srIJ7rLVIjFm_GHc6dpjyWFNUcuEhx09?width=1920&height=1080&cropmode=none"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  16/03/2021 - <b>GeoCovid ES</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Veja 1 ANO de casos de Covid-19 no ES em 20 segundos</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 18-->
+      <!--CARD 17-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/casagrande-anuncia-medidas-mais-rigidas-para-combate-a-covid-19-no-es-0321?_gl=1*n8pw8m*_ga*a3FibDlTN1FXSl9UeGhxZUhhU1VGMUJ5bHIwbUVGRU1XSnJhOGZ2UFlVVU0xcUYtdUZfREVqZi0xb0plcnpCYw" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/Gow3GMnf-jkpYBm6u44WwnqWkwE=/0x0:985x657/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/q/k/GxEyZTSrKfapYGep25cQ/20210316150942-img-6691.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  16/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Casagrande anuncia medidas mais rígidas para combate à Covid-19 no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 17-->
+      <!--CARD 16-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-es-chega-a-91-de-ocupacao-de-leitos-de-uti-nesta-terca-16-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://bn1304files.storage.live.com/y4maETIH5Eq2B95KtGapAYqTVjQDU_-7Hg7_RM1SH0hQC30lbt4CDffy4Hehhz_0bNkdT4r64xsCX9tn8KO6AkR2RZO4sfZfS4qYl764C3z4k_EIgWGHS8cdqoFuTNiII8vvja56hru2XvkevduD4M3PZ6eVIGZIum8GHTVCS3klKAXUEwhnJddEolBGKAQrB3C?width=1920&height=1280&cropmode=none"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  16/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Covid-19: ES chega a 91% de ocupação de leitos de UTI</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 16-->
       <!--CARD 15-->
         <div class="col">
           <div class="noticia">
@@ -181,7 +256,7 @@
                 <v-card-subtitle class="legenda_card">
                   02/03/2021 - <b>G1 - Espírito Santo</b>
                 </v-card-subtitle>
-                <v-card-title class="titulo_card">Governo de Santa Catarina transferirá pacientes com Covid-19 para o ES</v-card-title>
+                <v-card-title class="titulo_card">Governo de Santa Catarina vai transferirá pacientes com Covid-19 para o ES</v-card-title>
                 <v-card-text class="text--primary">
                 </v-card-text>
               </v-card>

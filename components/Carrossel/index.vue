@@ -34,10 +34,10 @@ export default {
         },
       ],
       slides: [
+        '1 ANO de casos de covid-19 no ES em 20 SEGUNDOS',
+        'Casagrande anuncia medidas rígidas para combate à Covid-19 no ES',
+        'Covid-19: ES chega a 91% de ocupação de leitos de UTI',
         'Restrições começam a valer em 17 cidades com risco alto no ES',
-        'Coronavírus: Matriz de Risco do ES deve passar por mudanças',
-        'Mais 50 mil doses de vacina contra a Covid-19 chegam ao ES',
-        'Veja as principais Faixas Etárias dos casos de Covid-19 no ES',
         '9 erros de higiene que as pessoas ainda cometem',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
       ],
