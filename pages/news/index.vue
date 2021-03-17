@@ -14,6 +14,31 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 19-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/entenda-o-que-voce-vai-poder-fazer-ou-nao-durante-a-quarentena-no-es-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2020/03/18/data-18032020---es---vitoria---coronavirus---movimentacao-de-bares-no-triangulo-das-bermudas-na-praia-do-canto---editoria-cidades---foto-vitor-jubini---gz-210670-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  17/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Entenda o que você vai poder fazer ou não durante a quarentena no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 19-->
       <!--CARD 18-->
         <div class="col">
           <div class="noticia">
