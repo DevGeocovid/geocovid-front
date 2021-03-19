@@ -14,6 +14,82 @@
     </div>
     <div class="container">
       <div class="row">
+      
+      <!--CARD 21-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/automedicacao-tem-piorado-quadro-de-pacientes-com-covid-19-no-es-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/03/15/linhares-foi-um-das-cidades-contempladas-com-as-ambulancias-do-samu-438799-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  19/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Automedicação tem piorado quadro de pacientes com Covid-19 no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 21-->
+      <!--CARD 21-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/redes-privada-e-filantropica-pedem-ajuda-ao-estado-para-adquirir-medicamentos-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/03/01/coletiva-com-o-governador-429121-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  19/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Redes privada e filantrópica pedem ajuda ao Estado</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 21-->
+      <!--CARD 20-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/vila-velha-confirma-perda-de-547-doses-de-vacinas-contra-a-covid-19-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/01/25/chegada-das-vacinas-da-oxfordastrazeneca-a-vila-velha-406905-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  19/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Vila Velha confirma perda de 547 doses de vacinas contra a Covid-19</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 20-->
       <!--CARD 19-->
         <div class="col">
           <div class="noticia">

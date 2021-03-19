@@ -35,9 +35,9 @@ export default {
       ],
       slides: [
         '1 ANO de casos de covid-19 no ES em 20 SEGUNDOS',
+        'Automedicação tem piorado quadro de pacientes com Covid-19 no ES',
+        'Redes privada e filantrópica pedem ajuda ao Estado',
         'Entenda o que você vai poder fazer ou não durante a quarentena no ES',
-        'Casagrande anuncia medidas rígidas para combate à Covid-19 no ES',
-        'Covid-19: ES chega a 91% de ocupação de leitos de UTI',
         '9 erros de higiene que as pessoas ainda cometem',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
       ],
