@@ -14,7 +14,81 @@
     </div>
     <div class="container">
       <div class="row">
-      
+      <!--CARD 24-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/transmissao-comunitaria-de-variante-e-galopante-no-es-diz-diretor-do-lacen-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2020/03/14/lacen-es-exames-de-coronavirus-ja-estao-sendo-feitos-no-estado-antes-coletas-eram-enviadas-para-o-rio-de-janeiro-207780-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  23/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Sete variantes do novo coronavírus circulam no Espírito Santo</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 24-->
+      <!--CARD 23-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/secretario-da-saude-atualiza-situacao-da-pandemia-de-covid-19-no-es-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2020/11/04/secretario-de-estado-da-saude-nesio-fernandes-em-pronunciamento-nesta-quarta-feira-09-353136.jpeg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  23/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Secretário da Saúde atualiza situação da pandemia de Covid-19 no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 23-->
+      <!--CARD 22-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/politica/es-nao-recebeu-r-16-bilhoes-do-governo-federal-para-combater-a-covid-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://cdn.falauniversidades.com.br/wp-content/uploads/2018/07/11142233/pink-money.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  23/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">ES não recebeu R$ 16 bilhões do governo federal para combater a Covid</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 22-->
       <!--CARD 21-->
         <div class="col">
           <div class="noticia">
