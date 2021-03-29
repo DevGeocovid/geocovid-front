@@ -14,6 +14,81 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 27-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/03/26/es-chega-a-96percent-de-ocupacao-de-leitos-de-uti-para-a-covid-19.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/CQV2uO0ZRdhGwP_o5nXwAkLbJqA=/0x0:854x480/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/r/V/uBGjOATbyRT5VnaqzPxQ/ilustra-rotina-jayme-santos-11-09-2020.jpeg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  29/03/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">ES tem 96% dos leitos de UTI para tratamento de Covid-19 ocupados</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 27-->
+      <!--CARD 26-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-31-cidades-do-es-tem-taxa-de-mortalidade-acima-da-media-estadual-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/03/24/covas-abertas-no-cemiterio-de-maruipe-em-vitoria-444731-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  29/03/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Covid-19: 31 cidades do ES têm taxa de mortalidade acima da média estadual</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 26-->
+      <!--CARD 25-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/03/26/vitoria-comeca-vacinacao-de-idosos-com-65-anos-neste-sabado.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/yGQEALi9gv9NoIdItEJFeybbGhY=/0x0:984x535/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/x/J/Vju35wRNATqmGPn5mbqg/esc-vacinacao-19-01-21-cd4710df-1-.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  29/03/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Vitória começa vacinação contra Covid-19 de pessoas com 65 anos</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 25-->
       <!--CARD 24-->
         <div class="col">
           <div class="noticia">

@@ -35,10 +35,9 @@ export default {
       ],
       slides: [
         '1 ANO de casos de covid-19 no ES em 20 SEGUNDOS',
+        'ES tem 96% dos leitos de UTI para tratamento de Covid-19 ocupados',
+        'Vitória começa vacinação contra Covid-19 de pessoas com 65 anos',
         'Sete variantes do novo coronavírus circulam no Espírito Santo',
-        'ES não recebeu R$ 16 bilhões do governo federal para combater a Covid',
-        'Automedicação tem piorado quadro de pacientes com Covid-19 no ES',
-        'Entenda o que você vai poder fazer ou não durante a quarentena no ES',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
       ],
     }
