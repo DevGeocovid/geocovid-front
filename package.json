@@ -11,11 +11,11 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "5.13.1",
-    "nuxt": "^2.14.0"
+    "nuxt": "2.15.4"
   },
   "devDependencies": {
-    "@nuxt/types": "2.15.2",
-    "@nuxt/typescript-build": "2.0.6",
+    "@nuxt/types": "2.15.4",
+    "@nuxt/typescript-build": "2.1.0",
     "@nuxtjs/vuetify": "1.11.3",
     "eslint-config-prettier": "8.1.0",
     "eslint-plugin-prettier": "^3.1.4",
