@@ -34,7 +34,8 @@ export default {
         },
       ],
       slides: [
-        '1 ANO de casos de covid-19 no ES em 20 SEGUNDOS',
+        'Timelapse: Casos de Covid-19 no Espírito Santo em fevereiro',
+        'Março foi o mês com mais mortes desde o início da pandemia no ES',
         'ES tem 96% dos leitos de UTI para tratamento de Covid-19 ocupados',
         'Vitória começa vacinação contra Covid-19 de pessoas com 65 anos',
         'Sete variantes do novo coronavírus circulam no Espírito Santo',

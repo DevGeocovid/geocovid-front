@@ -14,7 +14,107 @@
     </div>
     <div class="container">
       <div class="row">
-      <!--CARD 27-->
+      <!--CARD 32-->
+        <div class="col">
+          <div class="noticia">
+            <a href="/news/fevereiro-timelapse-mapas" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://bn1304files.storage.live.com/y4mqrQxkEwX6SAAs8cegsQPuv4sIM1tUZ2DPSDrPUIuy7lJhSmja6jmWMIuwZ6vOX5fP3Od-o-BcXVlnTrwqA-zj-m84xefxTTLQJVMDrNNAUy6dQ8yl5lcmGIGgMtm1av53UzjzGnxhsF_rmMtcBP6tLKGoYzjqFA7srIJ7rLVIjFm_GHc6dpjyWFNUcuEhx09?width=1920&height=1080&cropmode=none"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  01/04/2021 - <b>GeoCovid ES</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Timelapse: Casos de Covid-19 no Espírito Santo em fevereiro</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 32-->
+      <!--CARD 31-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/es-vai-receber-1689-mil-doses-de-vacina-e-pode-agilizar-imunizacao-de-idosos-0321" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/03/30/vacinacao-idosos-profissionais-de-saude-linhares-451094-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  01/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">ES vai receber 168,9 mil vacinas e pode agilizar imunização de idosos</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 31-->
+      <!--CARD 30-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/03/31/marco-termina-com-maior-registro-de-mortes-por-covid-19-em-um-mes-desde-o-inicio-da-pandemia-no-es.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/BkwdlvHoo6mfp--tn_Ly07NWa_8=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/4/U/wqCapfSjahoaAAhPO0sA/imagens-covid-mata-mais-21-07-2020.mov-snapshot-00.21-2020.07.29-13.11.40-.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  01/04/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Março foi o mês com mais mortes desde o início da pandemia no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 30-->
+      <!--CARD 29-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-ao-menos-15-gravidas-ja-morreram-da-doenca-no-es-0421" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/01/21/pacientes-de-manaus-infectados-pelo-coronavirus-chegam-ao-hospital-jayme-dos-santos-neves-404425-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  01/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Covid-19: ao menos 15 grávidas já morreram da doença no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 29-->
+      <!--CARD 28-->
         <div class="col">
           <div class="noticia">
             <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/03/26/es-chega-a-96percent-de-ocupacao-de-leitos-de-uti-para-a-covid-19.ghtml" target="_blank" class="text-decoration-none">
@@ -38,8 +138,8 @@
             </a>
           </div>
         </div>
-      <!--FIM CARD 27-->
-      <!--CARD 26-->
+      <!--FIM CARD 28-->
+      <!--CARD 27-->
         <div class="col">
           <div class="noticia">
             <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-31-cidades-do-es-tem-taxa-de-mortalidade-acima-da-media-estadual-0321" target="_blank" class="text-decoration-none">
@@ -63,8 +163,8 @@
             </a>
           </div>
         </div>
-      <!--FIM CARD 26-->
-      <!--CARD 25-->
+      <!--FIM CARD 27-->
+      <!--CARD 26-->
         <div class="col">
           <div class="noticia">
             <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/03/26/vitoria-comeca-vacinacao-de-idosos-com-65-anos-neste-sabado.ghtml" target="_blank" class="text-decoration-none">
@@ -88,8 +188,8 @@
             </a>
           </div>
         </div>
-      <!--FIM CARD 25-->
-      <!--CARD 24-->
+      <!--FIM CARD 26-->
+      <!--CARD 25-->
         <div class="col">
           <div class="noticia">
             <a href="https://www.agazeta.com.br/es/cotidiano/transmissao-comunitaria-de-variante-e-galopante-no-es-diz-diretor-do-lacen-0321" target="_blank" class="text-decoration-none">
@@ -113,8 +213,8 @@
             </a>
           </div>
         </div>
-      <!--FIM CARD 24-->
-      <!--CARD 23-->
+      <!--FIM CARD 25-->
+      <!--CARD 24-->
         <div class="col">
           <div class="noticia">
             <a href="https://www.agazeta.com.br/es/cotidiano/secretario-da-saude-atualiza-situacao-da-pandemia-de-covid-19-no-es-0321" target="_blank" class="text-decoration-none">
@@ -138,8 +238,8 @@
             </a>
           </div>
         </div>
-      <!--FIM CARD 23-->
-      <!--CARD 22-->
+      <!--FIM CARD 24-->
+      <!--CARD 23-->
         <div class="col">
           <div class="noticia">
             <a href="https://www.agazeta.com.br/es/politica/es-nao-recebeu-r-16-bilhoes-do-governo-federal-para-combater-a-covid-0321" target="_blank" class="text-decoration-none">
@@ -163,8 +263,8 @@
             </a>
           </div>
         </div>
-      <!--FIM CARD 22-->
-      <!--CARD 21-->
+      <!--FIM CARD 23-->
+      <!--CARD 22-->
         <div class="col">
           <div class="noticia">
             <a href="https://www.agazeta.com.br/es/cotidiano/automedicacao-tem-piorado-quadro-de-pacientes-com-covid-19-no-es-0321" target="_blank" class="text-decoration-none">
@@ -188,7 +288,7 @@
             </a>
           </div>
         </div>
-      <!--FIM CARD 21-->
+      <!--FIM CARD 22-->
       <!--CARD 21-->
         <div class="col">
           <div class="noticia">
