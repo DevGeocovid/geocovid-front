@@ -34,11 +34,10 @@ export default {
         },
       ],
       slides: [
-        'Timelapse: Casos de Covid-19 no Espírito Santo em fevereiro',
+        'Timelapse: Casos de Covid-19 no Espírito Santo em março',
+        'Uma morte a cada 15 minutos: ES bate recorde de mortes em 24 horas',
+        'ES bate recorde e ultrapassa marca de 900 pessoas em leitos de UTI',
         'Março foi o mês com mais mortes desde o início da pandemia no ES',
-        'ES tem 96% dos leitos de UTI para tratamento de Covid-19 ocupados',
-        'Vitória começa vacinação contra Covid-19 de pessoas com 65 anos',
-        'Sete variantes do novo coronavírus circulam no Espírito Santo',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
       ],
     }
