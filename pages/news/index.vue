@@ -14,6 +14,106 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 36-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/es-bate-recorde-com-mais-95-mortes-por-covid-19-em-apenas-24-horas-0421" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/03/24/covas-abertas-no-cemiterio-de-maruipe-em-vitoria-444734-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  06/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Uma morte a cada 15 minutos: ES bate recorde de mortes em 24 horas</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 36-->
+      <!--CARD 35-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-es-bate-recorde-e-ultrapassa-marca-de-900-pessoas-em-leitos-de-uti-0421" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/01/22/chegadas-dos-pacientes-com-covid-19-vindos-de-manaus-404768-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  06/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">ES bate recorde e ultrapassa marca de 900 pessoas em leitos de UTI</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 35-->
+      <!--CARD 34-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.folhavitoria.com.br/geral/noticia/04/2021/secretaria-de-saude-muda-protocolos-de-atendimento-no-es-para-agilizar-testagem-em-massa" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://assets.folhavitoria.com.br/images/7dd6c4f0-2f48-11eb-b63c-8b8aec4fb157--minified.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  06/04/2021 - <b>Folha Vitória</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Exame de covid-19 em consultas médicas, o resultado sai em 20 minutos</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 34-->
+      <!--CARD 33-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/vacinacao-dos-profissionais-da-seguranca-publica-do-es-comeca-nesta-terca-06-0421" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/03/03/planalto-serrano-430371-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  06/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Vacinação dos profissionais da segurança pública do ES começa hoje</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 33-->
       <!--CARD 32-->
         <div class="col">
           <div class="noticia">
