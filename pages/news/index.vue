@@ -81,7 +81,7 @@
                 <v-card-subtitle class="legenda_card">
                   06/04/2021 - <b>Folha Vitória</b>
                 </v-card-subtitle>
-                <v-card-title class="titulo_card">Exame de covid-19 em consultas médicas, o resultado sai em 20 minutos</v-card-title>
+                <v-card-title class="titulo_card">Exame de covid-19 em consultas médicas: resultado sai em 20 minutos</v-card-title>
                 <v-card-text class="text--primary">
                 </v-card-text>
               </v-card>

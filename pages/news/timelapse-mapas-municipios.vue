@@ -31,7 +31,7 @@
         <p>Veja o vídeo timelapse com os mapas que foi postado em nosso perfil no Instagram:</p>
         <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CMfxa5pJ2eY/embed" frameborder="0"></iframe>
       </div>
-      <p class="texto">Tenha acesso a todos os Mapas e Dados do vídeo em nossa página <a class="links" href="../data" target="_blank"><b style="color: #181B34;">Dados gerados.</b></a><p>
+      <p class="texto">Tenha acesso a todos os Mapas e Dados do vídeo em nossa página <a class="links" href="/data" target="_blank"><b style="color: #181B34;">Dados gerados.</b></a><p>
       <br><br>
       <h1 class="titulo-02">Sobre o Projeto GeoCovid ES</h1>
       <center>
