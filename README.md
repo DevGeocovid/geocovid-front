@@ -9,4 +9,4 @@ Código-fonte do site para divulgação dos resultados obtidos pelo projeto **Ma
 ## Dados do projeto
 
 - **Edital**: EDITAL FAPES No 03/2020 - EDITAL DE AVALIAÇÃO DE DEMANDA INDUZIDA – COVID-19
-- [Site](https://geocovides.com.br/) - em progresso 🚧.
+- [Site](https://geocovides.com.br/).
