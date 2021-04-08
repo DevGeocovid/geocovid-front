@@ -14,6 +14,31 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 37-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.cnnbrasil.com.br/saude/2021/03/30/brasil-e-o-pais-que-mais-registra-mortes-diarias-por-covid-19-em-marco" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://www.infomoney.com.br/wp-content/uploads/2020/07/GettyImages-1214347515.jpg?w=768&quality=70&strip=all"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  07/04/2021 - <b>CNN Brasil</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Brasil lidera número de mortes diárias por Covid-19 no mundo em março</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 37-->
       <!--CARD 36-->
         <div class="col">
           <div class="noticia">
