@@ -35,10 +35,9 @@ export default {
       ],
       slides: [
         'Timelapse: Casos de Covid-19 no Espírito Santo em março',
+        'Covid-19: abril ainda será crítico para o ES, diz secretário de Saúde',
+        'O que os cientistas já sabem sobre os casos de reinfecção pela Covid-19',
         'Brasil lidera mortes diárias por Covid-19 no mundo em março',
-        'Uma morte a cada 15 minutos: ES bate recorde de mortes em 24 horas',
-        'ES bate recorde e ultrapassa marca de 900 pessoas em leitos de UTI',
-        'Março foi o mês com mais mortes desde o início da pandemia no ES',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
       ],
     }
