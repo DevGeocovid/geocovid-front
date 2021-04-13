@@ -14,6 +14,81 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 40-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/04/09/covid-19-mes-de-abril-ainda-sera-critico-para-o-es-diz-secretario-de-saude.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2020/06/22/empresas-terao-que-adotar-mascaras-no-ambiente-de-trabalhoma-267248-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  13/04/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Covid-19: abril ainda será crítico para o ES, diz secretário de Saúde</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 40-->
+      <!--CARD 39-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/04/11/seis-municipios-do-es-nao-tem-mais-estoque-para-primeira-dose-de-vacina-contra-covid-19.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/yGQEALi9gv9NoIdItEJFeybbGhY=/0x0:984x535/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/x/J/Vju35wRNATqmGPn5mbqg/esc-vacinacao-19-01-21-cd4710df-1-.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  13/04/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Seis cidades do ES não têm mais estoque de vacina contra Covid-19</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 39-->
+      <!--CARD 38-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/o-que-os-cientistas-ja-sabem-sobre-os-casos-de-reinfeccao-pela-covid-19-0421" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/03/18/das-10-vacinas-fornecidas-pela-fiocruz-apenas-4-nao-dependem-da-importacao-de-insumos-441177-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  13/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">O que os cientistas já sabem sobre os casos de reinfecção pela Covid-19</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 38-->
       <!--CARD 37-->
         <div class="col">
           <div class="noticia">
