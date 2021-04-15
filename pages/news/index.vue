@@ -14,6 +14,81 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 43-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-professores-de-50-a-59-anos-serao-os-primeiros-vacinados-no-es-0421" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2020/10/14/sala-de-aula-338833-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  15/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Professores de 50 a 59 anos serão os primeiros vacinados no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 43-->
+      <!--CARD 42-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/governo-do-es-detalha-plano-de-vacinacao-para-trabalhadores-essenciais-0421" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/01/22/vacina-coronavac-405100-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  15/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Governo detalha plano de vacinação para trabalhadores essenciais</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 42-->
+      <!--CARD 41-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/04/12/covid-19-veja-as-medidas-restritivas-para-cada-grupo-de-cidades-do-es.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/XgbcQzmEmRO6n40dKau-oW_nKwA=/0x0:854x480/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/W/E/TqG1mCSOKPqoWhUD4ffA/enchente-pandemia-cachoeiro-04-06-20-1d84df2b.jpeg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  15/04/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Veja as medidas restritivas para cada grupo de cidades do ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 41-->
       <!--CARD 40-->
         <div class="col">
           <div class="noticia">

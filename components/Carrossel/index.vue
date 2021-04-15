@@ -35,8 +35,9 @@ export default {
       ],
       slides: [
         'Timelapse: Casos de Covid-19 no Espírito Santo em março',
-        'Covid-19: abril ainda será crítico para o ES, diz secretário de Saúde',
-        'O que os cientistas já sabem sobre os casos de reinfecção pela Covid-19',
+        'Abril ainda será crítico para o ES diz secretário de Saúde',
+        'Veja as medidas restritivas para cada grupo de cidades do ES',
+        'Governo detalha plano de vacinação para trabalhadores essenciais',
         'Brasil lidera mortes diárias por Covid-19 no mundo em março',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
       ],
