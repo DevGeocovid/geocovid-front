@@ -35,9 +35,9 @@ export default {
       ],
       slides: [
         'Timelapse: Casos de Covid-19 no Espírito Santo em março',
-        'Abril ainda será crítico para o ES diz secretário de Saúde',
-        'Veja as medidas restritivas para cada grupo de cidades do ES',
-        'Governo detalha plano de vacinação para trabalhadores essenciais',
+        'ES pode ter quarta onda de casos de covid-19 a partir de maio',
+        'ES bate recorde de pacientes internados em leitos de UTI',
+        'Novas tecnologias auxiliam no tratamento durante e pós-Covid',
         'Brasil lidera mortes diárias por Covid-19 no mundo em março',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
       ],
