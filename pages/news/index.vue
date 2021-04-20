@@ -14,6 +14,131 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 48-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.folhavitoria.com.br/geral/noticia/04/2021/es-tem-mais-103-mortes-por-covid-em-24-horas-segunda-maior-marca-desde-o-inicio-da-pandemia" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://assets.folhavitoria.com.br/images/ba661560-87f1-0138-03da-0a58a9feac2a--minified.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  20/04/2021 - <b>Folha Vitória</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Mais de 103 mortes em 24 horas por Covid-19 no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 48-->
+      <!--CARD 47-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-es-bate-recorde-de-pacientes-internados-em-leitos-de-uti-0421" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/01/22/chegadas-dos-pacientes-com-covid-19-vindos-de-manaus-404764-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  20/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Covid-19: ES bate recorde de pacientes internados em leitos de UTI</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 47-->
+      <!--CARD 46-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.folhavitoria.com.br/geral/noticia/04/2021/es-pode-ter-quarta-onda-de-casos-de-covid-19-a-partir-de-maio" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://www.infomoney.com.br/wp-content/uploads/2020/07/GettyImages-1214347515.jpg?w=768&quality=70&strip=all"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  20/04/2021 - <b>Folha Vitória</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">ES pode ter quarta onda de casos de covid-19 a partir de maio</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 46-->
+      <!--CARD 45-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/04/17/covid-19-veja-as-medidas-restritivas-para-cada-grupo-de-cidades-do-es.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/XgbcQzmEmRO6n40dKau-oW_nKwA=/0x0:854x480/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/W/E/TqG1mCSOKPqoWhUD4ffA/enchente-pandemia-cachoeiro-04-06-20-1d84df2b.jpeg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  20/04/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Covid-19: veja as medidas restritivas para cada grupo de cidades do ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 45-->
+      <!--CARD 44-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/conteudo-de-marca/novas-tecnologias-auxiliam-no-tratamento-durante-e-pos-covid-0421" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/04/12/com-as-plataformas-exclusivas-do-plano-santa-casa-e-o-uso-de-informacao-e-tecnologia-ja-e-possivel-garantir-um-processo-de-reabilitacao-seguro-e-eficaz-472182-article.jpeg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  20/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Novas tecnologias auxiliam no tratamento durante e pós-Covid</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 44-->
       <!--CARD 43-->
         <div class="col">
           <div class="noticia">
