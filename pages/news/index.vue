@@ -14,6 +14,106 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 52-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/queda-de-obitos-no-es-e-esperada-nas-proximas-semanas-diz-secretario-0421" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/03/01/coletiva-com-o-governador-429121-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  23/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">"Queda de óbitos no ES é esperada nas próximas semanas", diz secretário</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 52-->
+      <!--CARD 51-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/mapa-de-risco-no-es-confira-onde-pode-ou-nao-ter-aula-presencial-0421" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2020/10/14/sala-de-aula-338827-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  23/04/2021 - <b>Folha Vitória</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Mapa de Risco no ES: confira onde pode ou não ter aula presencial</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 51-->
+      <!--CARD 50-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.folhavitoria.com.br/geral/noticia/04/2021/covid-19-apos-mais-de-um-mes-taxa-de-ocupacao-de-leitos-de-uti-volta-a-ficar-abaixo-dos-90-no-es" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://assets.folhavitoria.com.br/images/49523330-8b15-11eb-863a-a7a89353bcd8--minified.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  23/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Taxa de ocupação de leitos de UTI volta a ficar abaixo dos 90% no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 50-->
+      <!--CARD 49-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-cariacica-abre-agendamento-de-vacinacao-para-pessoas-acima-de-60-anos-0421" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/04/22/profissional-da-saude-aplica-vacina-contra-a-covid-19-478853-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  23/04/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Cariacica agenda de vacinação para pessoas acima de 60 anos</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 49-->
       <!--CARD 48-->
         <div class="col">
           <div class="noticia">
