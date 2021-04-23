@@ -142,7 +142,7 @@
     <span
       class="title font-weight-medium color-blue subtitle-main d-flex justify-center"
       >EQUIPE</span
-    >
+    ><br<br>
     <v-row>
       <v-col :cols="$vuetify.breakpoint.xs ? '12' : '6'">
         <div class="mt-4">
@@ -163,6 +163,20 @@
         </div>
         <div class="mt-4">
           <a
+            href="http://lattes.cnpq.br/1293627013882628"
+            class="text-decoration-none"
+            target="blank"
+          >
+            <strong>Dr. Carlos Henrique de Oliveira</strong>
+          </a>
+          <br />
+          <span>Coordenadoria de Bacharelado e Licenciatura em Ciências Biológicas</span>
+          <br />
+          <span> Instituto Federal do Espírito Santo | IFES <i>campus</i> de Alegre </span>
+          <br />
+        </div>
+        <div class="mt-4">
+          <a
             href="http://lattes.cnpq.br/7599323771219296"
             class="text-decoration-none"
             target="blank"
@@ -171,6 +185,22 @@
           </a>
           <br />
           <span>Departamento de Computação</span>
+          <br />
+          <span> Centro de Ciências Exatas, Naturais e da Saúde | CCENS </span>
+          <br />
+          <span>Universidade Federal do Espírito Santo | UFES</span>
+          <br />
+        </div>
+        <div class="mt-4">
+          <a
+            href="http://lattes.cnpq.br/8170052761123546"
+            class="text-decoration-none"
+            target="blank"
+          >
+            <strong>M. Sc. Friedemann Berger</strong>
+          </a>
+          <br />
+          <span>Departamento de Farmácia e Nutrição / DFN</span>
           <br />
           <span> Centro de Ciências Exatas, Naturais e da Saúde | CCENS </span>
           <br />
@@ -195,6 +225,40 @@
         </div>
         <div class="mt-4">
           <a
+            href="http://lattes.cnpq.br/9213685527968955"
+            class="text-decoration-none"
+            target="blank"
+          >
+            <strong>Marx Engel Martins</strong>
+          </a>
+          <br />
+          <span>Graduado do curso de Geologia</span>
+          <br />
+          <span> Centro de Ciências Exatas, Naturais e da Saúde | CCENS </span>
+          <br />
+          <span>Universidade Federal do Espírito Santo | UFES</span>
+          <br />
+        </div>
+        <div class="mt-4">
+          <a
+            href="http://lattes.cnpq.br/6507773411362028"
+            class="text-decoration-none"
+            target="blank"
+          >
+            <strong>William Carlos Rodrigues Gonçalves</strong>
+          </a>
+          <br />
+          <span>Graduado do curso de Geografia (Bacharelado e Licenciatura)</span>
+          <br />
+          <span> Centro de Ciência Humanas e Naturais | CCHN</span>
+          <br />
+          <span>Universidade Federal do Espírito Santo | UFES</span>
+          <br />
+        </div>
+      </v-col>
+      <v-col :cols="$vuetify.breakpoint.xs ? '12' : '6'">
+      <div class="mt-4">
+          <a
             href="http://lattes.cnpq.br/1666681283698473"
             class="text-decoration-none"
             target="blank"
@@ -209,7 +273,7 @@
           <span>Universidade Federal do Espírito Santo | UFES</span>
           <br />
         </div>
-        <div class="mt-4">
+      <div class="mt-4">
           <a
             href="http://lattes.cnpq.br/9535346183199211"
             class="text-decoration-none"
@@ -225,8 +289,6 @@
           <span>Universidade Federal do Espírito Santo | UFES</span>
           <br />
         </div>
-      </v-col>
-      <v-col :cols="$vuetify.breakpoint.xs ? '12' : '6'">
       <div class="mt-4">
           <a
             href="http://lattes.cnpq.br/3813144583521556"
@@ -243,22 +305,7 @@
           <span>Universidade Federal do Espírito Santo | UFES</span>
           <br />
         </div>
-        <div class="mt-4">
-          <a
-            href="http://lattes.cnpq.br/9213685527968955"
-            class="text-decoration-none"
-            target="blank"
-          >
-            <strong>Marx Engel Martins</strong>
-          </a>
-          <br />
-          <span>Graduado do curso de Geologia</span>
-          <br />
-          <span> Centro de Ciências Exatas, Naturais e da Saúde | CCENS </span>
-          <br />
-          <span>Universidade Federal do Espírito Santo | UFES</span>
-          <br />
-        </div>
+        
         <div class="mt-4">
           <a
             href="http://lattes.cnpq.br/5334852329445517 "
@@ -309,12 +356,11 @@
         </div>
       </v-col>
     </v-row>
-    <br />
-    <br />
+    <br><br><br><br>
     <span
       class="title font-weight-medium color-blue subtitle-main d-flex justify-center"
       >APOIO</span
-    >
+    ><br>
     <div
       class="d-flex justify-center align-center mt-4"
       :class="$vuetify.breakpoint.xs ? 'flex-column' : ''"
@@ -325,6 +371,12 @@
         alt="ccens"
         class="ml-4"
         style="width: 200px;"
+      />
+      <img
+        src="https://sigeventos.ifes.edu.br/sigeventos/img/ifes-horizontal-cor.png"
+        alt="fapes"
+        class="ml-4"
+        style="width: 230px;"
       />
       <img
         src="~/assets/logos/fapes.png"

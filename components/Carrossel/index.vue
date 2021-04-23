@@ -35,8 +35,8 @@ export default {
       ],
       slides: [
         'Timelapse: Casos de Covid-19 no Espírito Santo em março',
-        'ES pode ter quarta onda de casos de covid-19 a partir de maio',
-        'ES bate recorde de pacientes internados em leitos de UTI',
+        'Mapa de Risco no ES: confira onde pode ou não ter aula presencial',
+        '"Queda de óbitos no ES é esperada nas próximas semanas", diz secretário',
         'Novas tecnologias auxiliam no tratamento durante e pós-Covid',
         'Brasil lidera mortes diárias por Covid-19 no mundo em março',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
