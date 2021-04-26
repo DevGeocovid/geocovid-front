@@ -167,7 +167,7 @@
             class="text-decoration-none"
             target="blank"
           >
-            <strong>Dr. Carlos Henrique de Oliveira</strong>
+            <strong>Prof. Dr. Carlos Henrique de Oliveira</strong>
           </a>
           <br />
           <span>Coordenadoria de Bacharelado e Licenciatura em Ciências Biológicas</span>
