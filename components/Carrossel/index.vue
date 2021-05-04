@@ -35,7 +35,7 @@ export default {
       ],
       slides: [
         'Timelapse: Casos de Covid-19 no Espírito Santo em Abril de 2021',
-        'Veja comprovantes necessários para grávidas e pessoas com comorbidade vacinarem',
+        'Comprovantes para grávidas e pessoas com comorbidade se vacinarem',
         'Covid-19: profissional que trocar segunda dose no ES será punido',
         'Mapa de Risco no ES: confira onde pode ou não ter aula presencial',
         'Brasil lidera mortes diárias por Covid-19 no mundo em março',
