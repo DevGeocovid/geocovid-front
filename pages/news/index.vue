@@ -14,6 +14,106 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 56-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/veja-comprovantes-necessarios-para-gravidas-e-pessoas-com-comorbidade-vacinarem-0521" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/04/29/mulher-gravida-gravida-gestante-mascara-covid-19-483851-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  04/05/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Veja comprovantes necessários para grávidas e pessoas com comorbidade vacinarem</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 56-->
+      <!--CARD 55-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/profissional-de-saude-que-trocar-segunda-dose-no-es-sera-punido-0521" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/05/03/vacina-485734-article.jpeg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  04/05/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Covid-19: profissional que trocar segunda dose no ES será punido, determina secretário</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 55-->
+      <!--CARD 54-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/grande-vitoria-confira-datas-para-agendamento-de-vacinacao-contra-a-covid-19-0521" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/04/27/a-defensoria-publica-esta-recebendo-denuncias-de-problemas-com-a-vacinacao-ou-com-o-processo-de-agendamento-481637-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  04/05/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Grande Vitória: confira datas para agendamento de vacinação contra a Covid-19</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 54-->
+      <!--CARD 53-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/secretario-de-saude-atualiza-situacao-da-pandemia-da-covid-19-no-es-0521" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2020/11/04/secretario-de-estado-da-saude-nesio-fernandes-em-pronunciamento-nesta-quarta-feira-09-353136.jpeg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  04/05/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Secretário de Saúde atualiza situação da pandemia da Covid-19 no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 53-->
       <!--CARD 52-->
         <div class="col">
           <div class="noticia">

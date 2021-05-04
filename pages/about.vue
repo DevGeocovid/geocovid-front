@@ -359,7 +359,7 @@
     <br><br><br><br>
     <span
       class="title font-weight-medium color-blue subtitle-main d-flex justify-center"
-      >APOIO</span
+      >PARCEIROS:</span
     ><br>
     <div
       class="d-flex justify-center align-center mt-4"
@@ -390,6 +390,17 @@
         class="ml-4"
         style="width: 200px;"
       />
+    </div>
+    <br><br><br><br>
+    <span
+      class="title font-weight-medium color-blue subtitle-main d-flex justify-center"
+      >APOIADORES:</span
+    ><br>
+    <div
+      class="d-flex justify-center align-center mt-4"
+      :class="$vuetify.breakpoint.xs ? 'flex-column' : ''"
+    >
+    <b style="text-align: center">Geotecnologia, Tectus Júnior, I9 Pharma, MUSES UFES, Prefeitura de Alegre, UFES International, <br>Teatro Universitário da Ufes, TV Ufes, DCE Ufes, SAC do Coronga e Alegre em Depressão.</b>
     </div>
   </div>
 </template>
