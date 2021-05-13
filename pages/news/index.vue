@@ -14,6 +14,81 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 59-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/05/12/com-10-mil-mortes-por-covid-19-familias-do-es-compartilham-dor-da-perda.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/BkwdlvHoo6mfp--tn_Ly07NWa_8=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/4/U/wqCapfSjahoaAAhPO0sA/imagens-covid-mata-mais-21-07-2020.mov-snapshot-00.21-2020.07.29-13.11.40-.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  13/05/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Com 10 mil mortes por Covid-19, famílias do ES compartilham dor da perda</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 59-->
+      <!--CARD 58-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid19-todos-os-pacientes-com-hipertensao-agora-podem-ser-vacinados-no-es-0521" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2020/12/14/jovem-com-hipertensao-pressao-alta-382038-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  13/05/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Covid-19: todos os pacientes com hipertensão agora podem ser vacinados no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 58-->
+      <!--CARD 57-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-vitoria-abre-vagas-para-idosos-trabalhadores-da-saude-e-comorbidades-0521" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/04/27/a-defensoria-publica-esta-recebendo-denuncias-de-problemas-com-a-vacinacao-ou-com-o-processo-de-agendamento-481637-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  13/05/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Vitória abre vagas para idosos, trabalhadores da saúde e comorbidades</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 57-->
       <!--CARD 56-->
         <div class="col">
           <div class="noticia">
