@@ -35,9 +35,9 @@ export default {
       ],
       slides: [
         'Timelapse: Casos de mortes pela Covid-19 no ES em 1 ano',
-        'Com 10 mil mortes por Covid-19, famílias do ES compartilham dor da perda',
-        'Todos os pacientes com hipertensão agora podem ser vacinados no ES',
-        'Vacinas para idosos, trabalhadores da saúde e comorbidades',
+        'ES é o 7° em ranking com mais mortes por 100 mil habitantes',
+        'ES recebe mais doses da CoronaVac e da AstraZeneca',
+        '18 cidades do ES ainda guardam vacinas em geladeiras domésticas',
         'Brasil lidera mortes diárias por Covid-19 no mundo em março',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
       ],

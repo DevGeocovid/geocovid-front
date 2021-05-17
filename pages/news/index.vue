@@ -14,6 +14,81 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 62-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-es-e-o-7-em-ranking-com-mais-mortes-por-100-mil-habitantes-0521" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/04/07/leitos-do-hospital-materno-infantil-na-serra-para-pacientes-com-a-covid-19-469235-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  17/05/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Covid-19: ES é o 7° em ranking com mais mortes por 100 mil habitantes</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 62-->
+      <!--CARD 61-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/05/14/es-recebe-43800-doses-da-coronavac-e-52250-da-astrazeneca.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/yGQEALi9gv9NoIdItEJFeybbGhY=/0x0:984x535/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/x/J/Vju35wRNATqmGPn5mbqg/esc-vacinacao-19-01-21-cd4710df-1-.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  17/05/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">ES recebe mais doses da CoronaVac e da AstraZeneca</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 61-->
+      <!--CARD 60-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-18-cidades-do-es-ainda-guardam-vacinas-em-geladeiras-domesticas-0521" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/03/26/camaras-frias-para-armazenar-vacinas-da-prefeitura-de-cariacica-446252-article.jpeg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  17/05/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">18 cidades do ES ainda guardam vacinas em geladeiras domésticas</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 60-->
       <!--CARD 59-->
         <div class="col">
           <div class="noticia">
