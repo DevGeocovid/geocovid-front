@@ -14,6 +14,81 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 65-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/politica/covid-19-no-es-ja-custou-r-1-bilhao-mais-da-metade-foi-gasta-em-leitos-0521" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://cdn.falauniversidades.com.br/wp-content/uploads/2018/07/11142233/pink-money.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  27/05/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Covid-19 no ES já custou R$ 1 bilhão; mais da metade foi gasta em leitos</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 65-->
+      <!--CARD 64-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/es-e-notificado-sobre-caso-suspeito-da-variante-indiana-da-covid-19-0521" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/05/10/a-frente-da-secretaria-estadual-de-saude-sesa-esta-o-secretario-nesio-fernandes-490749-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  27/05/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">ES é notificado sobre caso suspeito da variante indiana da Covid-19</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 64-->
+      <!--CARD 63-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/05/25/es-amplia-vacinacao-contra-covid-19-para-pessoas-com-comorbidade-acima-de-18-anos.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/go5-5P4bbthuu2IHT3A_qviJqAU=/0x0:800x600/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/Q/K/VO85xITWK6nSmP4dxiWQ/videocapture-20210322-095116.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  27/05/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">ES amplia vacinação para pessoas com comorbidade acima de 18 anos</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 63-->
       <!--CARD 62-->
         <div class="col">
           <div class="noticia">

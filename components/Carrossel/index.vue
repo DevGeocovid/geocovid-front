@@ -35,8 +35,9 @@ export default {
       ],
       slides: [
         'Timelapse: Casos de mortes pela Covid-19 no ES em 1 ano',
+        'Covid-19 no ES já custou R$ 1 bilhão; mais da metade foi gasta em leitos',
+        'ES é notificado sobre caso suspeito da variante indiana da Covid-19',
         'ES é o 7° em ranking com mais mortes por 100 mil habitantes',
-        'ES recebe mais doses da CoronaVac e da AstraZeneca',
         '18 cidades do ES ainda guardam vacinas em geladeiras domésticas',
         'Brasil lidera mortes diárias por Covid-19 no mundo em março',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
