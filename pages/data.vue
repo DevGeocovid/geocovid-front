@@ -12,12 +12,12 @@
       </div>
       <h3 class="titulo-02">Arquivos dos mapas:</h3>
       <div class="container">
-        <a class="drive" href="https://drive.google.com/drive/folders/1uEcolozNMpiMv1MwUa4hNjtgXZ9csqCS?usp=sharing" target="_blank">
+        <a class="drive" href="https://drive.google.com/drive/folders/1pvCMcRhiO9186Ie3unkqtZXbaJnz9Ch9?usp=sharing" target="_blank">
           <img src="https://image.flaticon.com/icons/svg/716/716784.svg" alt="Pasta">
           <br>
           <h5>MAPAS</h5>
         </a>
-        <a class="drive" href="https://drive.google.com/drive/folders/1MulBreRLNMOIvgoR4ZaPTYbi_C82YCDm?usp=sharing" target="_blank">
+        <a class="drive" href="https://drive.google.com/drive/folders/1WrSIYTsicmO8uuWM5mx-posp5EaeVc4W?usp=sharing" target="_blank">
           <img src="https://image.flaticon.com/icons/svg/716/716784.svg" alt="Pasta">
           <br>
           <h5>PLANILHAS</h5>
