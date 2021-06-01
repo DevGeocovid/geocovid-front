@@ -1,0 +1,20 @@
+{
+    "news": [
+        {
+            "id": "",
+            "date": "",
+            "title": "",
+            "source": "",
+            "href": "",
+            "image": ""
+        },
+        {
+            "id": 65,
+            "title": "Covid-19 no ES já custou R$ 1 bilhão; mais da metade foi gasta em leitos",
+            "date": "27/05/2021",
+            "source": "A Gazeta",
+            "href": "https://www.agazeta.com.br/es/politica/covid-19-no-es-ja-custou-r-1-bilhao-mais-da-metade-foi-gasta-em-leitos-0521",
+            "image": "https://cdn.falauniversidades.com.br/wp-content/uploads/2018/07/11142233/pink-money.jpg"
+        }
+    ]
+}
