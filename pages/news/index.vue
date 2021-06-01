@@ -14,6 +14,106 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 69-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/05/31/es-chega-a-10798-mortes-e-482137-casos-confirmados-de-covid-19.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://www.infomoney.com.br/wp-content/uploads/2020/07/GettyImages-1214347515.jpg?w=768&quality=70&strip=all"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  01/06/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">ES chega a 10.798 mortes e 482.137 casos confirmados de Covid-19</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 69-->
+      <!--CARD 68-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/05/29/mais-de-90-pessoas-isoladas-em-hotel-passam-por-exames-de-covid-19-apos-indiano-testar-positivo-no-es.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/6-8I8_J5DlaDLAcUVfhgrEmxTP0=/0x0:600x338/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/b/G/cf7EANTJqIjBJ43Ze5pg/hospedee.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  01/06/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Hóspedes em hotel no ES passam por exames após indiano testar positivo</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 68-->
+      <!--CARD 67-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/cariacica-abre-10-mil-vagas-para-vacinacao-contra-a-covid-nesta-segunda-0521" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/02/04/vacina-de-oxford-413583-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  01/06/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Cariacica abre 10 mil vagas para vacinação nesta segunda</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 67-->
+      <!--CARD 66-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/covid-19-o-que-fazer-para-afastar-o-risco-da-quarta-onda-no-es-0521" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2020/06/22/empresas-terao-que-adotar-mascaras-no-ambiente-de-trabalhoma-267248-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  01/06/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Covid-19: o que fazer para afastar o risco da quarta onda no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 66-->
       <!--CARD 65-->
         <div class="col">
           <div class="noticia">
