@@ -54,7 +54,7 @@
                 >
                 </v-img>
                 <v-card-subtitle class="legenda_card">
-                  01/06/2021 - <b>A Gazeta</b>
+                  01/06/2021 - <b>G1 - Espírito Santo</b>
                 </v-card-subtitle>
                 <v-card-title class="titulo_card">Hóspedes em hotel no ES passam por exames após indiano testar positivo</v-card-title>
                 <v-card-text class="text--primary">
