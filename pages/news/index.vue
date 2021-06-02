@@ -1,6 +1,6 @@
 <template>
   <div class="blog">
-    <v-img class="carrossel" :src="img_src">
+    <v-img class="carrossel" :src="img">
       <div class="display-3">
         <h1 class="display">
           Veja as principais notícias <br />sobre covid-19 no Espírito Santo
@@ -17,7 +17,16 @@
     </div>
     <div class="container">
       <div class="row">
-        <CardNews />
+        <div class="col" v-bind:key="news.id" v-for="news in allNews">
+          <CardNews
+            :title="news.title"
+            :date="news.date"
+            :source="news.source"
+            :href="news.href"
+            :target="news.target"
+            :img="news.img"
+          />
+        </div>
       </div>
     </div>
   </div>
@@ -25,11 +34,34 @@
 
 <script>
 export default {
-  name: 'News',
+  name: 'NewsPage',
   data() {
     return {
-      img_src:
+      img:
         'https://bn1304files.storage.live.com/y4msLbTAx_Kl9KtXDT2EkixqNbUtlWY1veU5Vy773q080HeS6ZZ3HVKro19IFXPbNhk2jTkcYAE9I1JVx78AnQWKCVLRG09dbBXZkozJV3YE98w4fDlyCDlQZMNcpZ-9GsUOh_YCVfOanDPf0dcx5VsWjvWQGtJkFpawof_SGN7lYfm6jEbydDMCb5RC9Yp4U_O?width=1300&height=600&cropmode=none',
+      allNews: [
+        {
+          id: 1,
+          href: '/news/retrospectiva-2020-casos-municipios-estado',
+          target: '',
+          img:
+            'https://veja.abril.com.br/wp-content/uploads/2020/04/gettyimages-1215609255.jpg',
+          title:
+            'Retrospestiva de 2020 dos casos de covid-19 no Espírito Santo',
+          date: '02/02/2021',
+          source: 'GeoCovid ES',
+        },
+        {
+          id: 2,
+          href: '/news/faixa-etaria-casos-confirmados-covid-es',
+          target: '',
+          img:
+            'https://veja.abril.com.br/wp-content/uploads/2020/04/gettyimages-1215609255.jpg',
+          title: 'Casos confirmados',
+          date: '02/02/2021',
+          source: 'GeoCovid ES',
+        },
+      ],
     }
   },
   computed: {
@@ -59,15 +91,6 @@ export default {
 }
 .cards {
   margin-top: 30px;
-}
-.titulo_card {
-  margin-bottom: -20px;
-  text-align: center;
-  word-break: normal !important;
-}
-.legenda_card {
-  margin-bottom: -30px;
-  text-align: center !important;
 }
 .blog {
   margin-top: 20%;
