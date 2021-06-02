@@ -15,16 +15,17 @@
         <span class="title white--text">NOTÍCIAS</span>
       </div>
     </div>
+    <div v-if="!loaded">Carregando notícias...</div>
     <div class="container">
       <div class="row">
-        <div class="col" v-bind:key="news.id" v-for="news in allNews">
+        <div class="col" v-bind:key="news.id" v-for="news in loadAllNews">
           <CardNews
             :title="news.title"
             :date="news.date"
             :source="news.source"
             :href="news.href"
             :target="news.target"
-            :img="news.img"
+            :img="news.image"
           />
         </div>
       </div>
@@ -33,39 +34,23 @@
 </template>
 
 <script>
+import content from '@/dbtemp.json'
+
 export default {
   name: 'NewsPage',
   data() {
     return {
+      loaded: false,
       img:
         'https://bn1304files.storage.live.com/y4msLbTAx_Kl9KtXDT2EkixqNbUtlWY1veU5Vy773q080HeS6ZZ3HVKro19IFXPbNhk2jTkcYAE9I1JVx78AnQWKCVLRG09dbBXZkozJV3YE98w4fDlyCDlQZMNcpZ-9GsUOh_YCVfOanDPf0dcx5VsWjvWQGtJkFpawof_SGN7lYfm6jEbydDMCb5RC9Yp4U_O?width=1300&height=600&cropmode=none',
-      allNews: [
-        {
-          id: 1,
-          href: '/news/retrospectiva-2020-casos-municipios-estado',
-          target: '',
-          img:
-            'https://veja.abril.com.br/wp-content/uploads/2020/04/gettyimages-1215609255.jpg',
-          title:
-            'Retrospestiva de 2020 dos casos de covid-19 no Espírito Santo',
-          date: '02/02/2021',
-          source: 'GeoCovid ES',
-        },
-        {
-          id: 2,
-          href: '/news/faixa-etaria-casos-confirmados-covid-es',
-          target: '',
-          img:
-            'https://veja.abril.com.br/wp-content/uploads/2020/04/gettyimages-1215609255.jpg',
-          title: 'Casos confirmados',
-          date: '02/02/2021',
-          source: 'GeoCovid ES',
-        },
-      ],
+      allNews: [],
     }
   },
   computed: {
-    //allNews
+    loadAllNews() {
+      this.loaded = true
+      return content.news
+    },
   },
 }
 </script>
