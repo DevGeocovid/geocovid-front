@@ -14,6 +14,81 @@
     </div>
     <div class="container">
       <div class="row">
+      <!--CARD 72-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://g1.globo.com/es/espirito-santo/noticia/2021/06/04/toda-populacao-de-18-a-49-anos-sera-vacinada-contra-covid-19-em-viana-es.ghtml" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://s2.glbimg.com/hBywpjsuEVJ7wanzqBJzZ-kn8L0=/0x0:635x425/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/F/I/d8Zk3uTDuWfLpW9xKw2A/casaaaa.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  04/06/2021 - <b>G1 - Espírito Santo</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Toda população de 18 a 49 anos será vacinada contra Covid-19 em Viana, ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 72-->
+      <!--CARD 71-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/governador-anuncia-novidades-na-vacinacao-contra-a-covid-19-no-es-0621" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/03/01/coletiva-com-o-governador-429121-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  04/06/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Governador anuncia novidades na vacinação contra a Covid-19 no ES</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 71-->
+      <!--CARD 70-->
+        <div class="col">
+          <div class="noticia">
+            <a href="https://www.agazeta.com.br/es/cotidiano/vacinacao-em-massa-quando-o-es-sentira-os-efeitos-da-imunidade-coletiva-0621" target="_blank" class="text-decoration-none">
+              <v-card
+                class="mx-auto"
+                max-width="400"
+              >
+                <v-img
+                  class="white--text align-end"
+                  height="200px"
+                  src="https://midias.agazeta.com.br/2021/02/22/vacinacao-em-brasilia-423985-article.jpg"
+                >
+                </v-img>
+                <v-card-subtitle class="legenda_card">
+                  04/06/2021 - <b>A Gazeta</b>
+                </v-card-subtitle>
+                <v-card-title class="titulo_card">Quando o ES sentirá os efeitos da imunidade coletiva?</v-card-title>
+                <v-card-text class="text--primary">
+                </v-card-text>
+              </v-card>
+            </a>
+          </div>
+        </div>
+      <!--FIM CARD 70-->
       <!--CARD 69-->
         <div class="col">
           <div class="noticia">

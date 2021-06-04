@@ -36,7 +36,7 @@ export default {
       slides: [
         'Timelapse: Casos de mortes pela Covid-19 no ES em 1 ano',
         'Covid-19 no ES já custou R$ 1 bilhão; mais da metade foi gasta em leitos',
-        'Covid-19: o que fazer para afastar o risco da quarta onda no ES',
+        'Vacinação em massa: quando o ES sentirá os efeitos da imunidade coletiva?',
         'ES é o 7° em ranking com mais mortes por 100 mil habitantes',
         '18 cidades do ES ainda guardam vacinas em geladeiras domésticas',
         'Brasil lidera mortes diárias por Covid-19 no mundo em março',
