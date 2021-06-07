@@ -18,7 +18,7 @@
     <div v-if="!loaded">Carregando notícias...</div>
     <div class="container">
       <div class="row">
-        <div class="col" v-bind:key="news.id" v-for="news in loadAllNews">
+        <div class="col" v-bind:key="news.id" v-for="news in allNews">
           <CardNews
             :title="news.title"
             :date="news.date"
@@ -34,22 +34,31 @@
 </template>
 
 <script>
-import content from '@/dbtemp.json'
-
 export default {
   name: 'NewsPage',
   data() {
     return {
+      error: false,
       loaded: false,
-      img:
-        'https://bn1304files.storage.live.com/y4msLbTAx_Kl9KtXDT2EkixqNbUtlWY1veU5Vy773q080HeS6ZZ3HVKro19IFXPbNhk2jTkcYAE9I1JVx78AnQWKCVLRG09dbBXZkozJV3YE98w4fDlyCDlQZMNcpZ-9GsUOh_YCVfOanDPf0dcx5VsWjvWQGtJkFpawof_SGN7lYfm6jEbydDMCb5RC9Yp4U_O?width=1300&height=600&cropmode=none',
+      img: 'https://bn1304files.storage.live.com/y4msLbTAx_Kl9KtXDT2EkixqNbUtlWY1veU5Vy773q080HeS6ZZ3HVKro19IFXPbNhk2jTkcYAE9I1JVx78AnQWKCVLRG09dbBXZkozJV3YE98w4fDlyCDlQZMNcpZ-9GsUOh_YCVfOanDPf0dcx5VsWjvWQGtJkFpawof_SGN7lYfm6jEbydDMCb5RC9Yp4U_O?width=1300&height=600&cropmode=none',
       allNews: [],
     }
   },
-  computed: {
-    loadAllNews() {
-      this.loaded = true
-      return content.news
+  mounted() {
+    this.getNews()
+  },
+  methods: {
+    async getNews() {
+      try {
+        const data = await this.$axios.$get(
+          'https://raw.githubusercontent.com/DevGeocovid/site-data/master/dbtemp.json'
+        )
+        Object.assign(this.allNews, data.news)
+        this.loaded = true
+      } catch (e) {
+        console.log('Erro ao obter os dados das notícias')
+        error = true
+      }
     },
   },
 }
