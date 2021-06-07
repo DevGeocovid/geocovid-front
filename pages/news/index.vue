@@ -16,6 +16,10 @@
       </div>
     </div>
     <div v-if="!loaded">Carregando notícias...</div>
+    <div v-if="error">
+      <p>Desculpe, não foi possível obter a lista de notícias.</p>
+      <p>Por favor, tente novamente mais tarde.</p>
+    </div>
     <div class="container">
       <div class="row">
         <div class="col" v-bind:key="news.id" v-for="news in allNews">
