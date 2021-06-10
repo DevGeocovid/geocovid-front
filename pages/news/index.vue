@@ -7,11 +7,8 @@
         </h1>
       </div>
     </v-img>
-    <div id="titulo" class="mx-auto">
-      <div
-        class="d-flex justify-center primary rounded-lg px-12 mt-4 py-1"
-        style="position: "
-      >
+    <div id="titulo-pagina" class="mx-auto">
+      <div class="d-flex justify-center primary rounded-lg px-12 mt-4 py-1">
         <span class="title white--text">NOTÍCIAS</span>
       </div>
     </div>
@@ -70,7 +67,7 @@ export default {
 
 <style>
 /**TÍTULO DO CARROSSEL**/
-#titulo {
+#titulo-pagina {
   margin-bottom: 38px;
   width: 200px;
   text-align: center;
@@ -152,7 +149,7 @@ export default {
   }
 }
 @media (min-width: 800px) {
-  #titulo {
+  #titulo-pagina {
     display: none;
   }
   .carrossel {

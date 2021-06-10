@@ -42,11 +42,6 @@ export default {
 </script>
 
 <style>
-#titulo {
-  margin-bottom: 38px;
-  width: 200px;
-  text-align: center;
-}
 .display {
   font-size: 50px;
   font-weight: 500;
