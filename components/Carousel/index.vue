@@ -1,9 +1,8 @@
 <template>
   <div class="container-fluid">
     <v-carousel class="carrossel">
-      <a target="blank" style="text-decoration: none" href="/news">
+      <a style="text-decoration: none" href="/news">
         <v-carousel-item
-          target="_blank"
           v-for="(title, i) in titles"
           :key="i"
           reverse-transition="fade-transition"
