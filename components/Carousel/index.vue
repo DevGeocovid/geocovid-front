@@ -1,23 +1,20 @@
 <template>
   <div class="container-fluid">
     <v-carousel class="carrossel">
-      <a target="blank" style="text-decoration: none;" href="/news">
+      <a target="blank" style="text-decoration: none" href="/news">
         <v-carousel-item
           target="_blank"
-          v-for="(slide, i) in slides"
+          v-for="(title, i) in titles"
           :key="i"
           reverse-transition="fade-transition"
           transition="fade-transition"
         >
-        <v-img
-          height="100%"
-          src="https://bn1304files.storage.live.com/y4msLbTAx_Kl9KtXDT2EkixqNbUtlWY1veU5Vy773q080HeS6ZZ3HVKro19IFXPbNhk2jTkcYAE9I1JVx78AnQWKCVLRG09dbBXZkozJV3YE98w4fDlyCDlQZMNcpZ-9GsUOh_YCVfOanDPf0dcx5VsWjvWQGtJkFpawof_SGN7lYfm6jEbydDMCb5RC9Yp4U_O?width=1300&height=600&cropmode=none"
-        >
-        <!--Legenda-->
-        <div class="display-3">
-          <h1 class="display">{{ slide }}</h1>
-        </div>
-        </v-img>
+          <v-img height="100%" :src="image">
+            <!--Legenda-->
+            <div class="display-3">
+              <h1 class="display">{{ title }}</h1>
+            </div>
+          </v-img>
         </v-carousel-item>
       </a>
     </v-carousel>
@@ -26,14 +23,13 @@
 
 <script>
 export default {
-  data () {
+  name: 'Carousel',
+  data() {
     return {
-      items: [
-        {
-          src: 'https://bn1304files.storage.live.com/y4msLbTAx_Kl9KtXDT2EkixqNbUtlWY1veU5Vy773q080HeS6ZZ3HVKro19IFXPbNhk2jTkcYAE9I1JVx78AnQWKCVLRG09dbBXZkozJV3YE98w4fDlyCDlQZMNcpZ-9GsUOh_YCVfOanDPf0dcx5VsWjvWQGtJkFpawof_SGN7lYfm6jEbydDMCb5RC9Yp4U_O?width=1300&height=600&cropmode=none',
-        },
-      ],
-      slides: [
+      image:
+        'https://bn1304files.storage.live.com/y4msLbTAx_Kl9KtXDT2EkixqNbUtlWY1veU5Vy773q080HeS6ZZ3HVKro19IFXPbNhk2jTkcYAE9I1JVx78AnQWKCVLRG09dbBXZkozJV3YE98w4fDlyCDlQZMNcpZ-9GsUOh_YCVfOanDPf0dcx5VsWjvWQGtJkFpawof_SGN7lYfm6jEbydDMCb5RC9Yp4U_O?width=1300&height=600&cropmode=none',
+
+      titles: [
         'Timelapse: Casos de mortes pela Covid-19 no ES em 1 ano',
         'ES é o 7° em ranking com mais mortes por 100 mil habitantes',
         'ES recebe mais doses da CoronaVac e da AstraZeneca',
@@ -47,29 +43,29 @@ export default {
 </script>
 
 <style>
-#titulo{
+#titulo {
   margin-bottom: 38px;
   width: 200px;
   text-align: center;
 }
-.display{
+.display {
   font-size: 50px;
   font-weight: 500;
   opacity: 1;
   text-align: center;
   margin: 200px;
   line-height: 60px !important;
-  transition: background-color .3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
   color: white;
   padding: 0;
   text-transform: uppercase;
 }
 /**MOBILE PORTRAIT**/
 @media (min-width: 320px) {
-  .carrossel{
+  .carrossel {
     height: 430px !important;
   }
-  .display{
+  .display {
     font-size: 35px !important;
     line-height: 45px !important;
     padding: 20px;
@@ -78,21 +74,21 @@ export default {
   }
 }
 /**MOBILE LANDSCAPE**/
-@media (min-height: 321px) and (min-width: 320px) and (orientation: landscape){
-  .carrossel{
+@media (min-height: 321px) and (min-width: 320px) and (orientation: landscape) {
+  .carrossel {
     height: 300px !important;
   }
-  .display{
+  .display {
     font-size: 38px !important;
     padding: 60px;
     margin-top: 0px !important;
   }
 }
-@media (min-width: 720px) and (min-height: 800px){
-  .carrossel{
+@media (min-width: 720px) and (min-height: 800px) {
+  .carrossel {
     height: 300px !important;
   }
-  .display{
+  .display {
     font-size: 30px !important;
     font-weight: 500;
     line-height: 50px;
@@ -101,23 +97,23 @@ export default {
   }
 }
 /**PC 720p**/
-@media (min-width: 1280px){
-  .display{
+@media (min-width: 1280px) {
+  .display {
     font-size: 42px !important;
     padding: 50px;
     margin-top: 40px !important;
   }
 }
 /**PC 1080p**/
-@media (min-width: 1920px){
-  .carrossel{
+@media (min-width: 1920px) {
+  .carrossel {
     height: 400px !important;
   }
-  .display{
+  .display {
     font-size: 50px !important;
     padding: 0;
     margin-top: 130px !important;
-    margin: 200px ;
+    margin: 200px;
     line-height: 70px !important;
   }
 }
