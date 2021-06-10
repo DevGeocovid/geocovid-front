@@ -19,6 +19,7 @@
     <div v-if="error">
       <p>Desculpe, não foi possível obter a lista de notícias.</p>
       <p>Por favor, tente novamente mais tarde.</p>
+      <NuxtLink to="/"> Página inicial. </NuxtLink>
     </div>
     <div class="container">
       <div class="row">
@@ -55,14 +56,13 @@ export default {
     async getNews() {
       try {
         const data = await this.$axios.$get(
-          'https://raw.githubusercontent.com/DevGeocovid/site-data/master/dbtemp.json'
+          'https://raw.githubusercontent.com/DevGeocovid/site-data/master/news.json'
         )
         Object.assign(this.allNews, data.news)
-        this.loaded = true
       } catch (e) {
-        console.log('Erro ao obter os dados das notícias')
-        error = true
+        this.error = true
       }
+      this.loaded = true
     },
   },
 }
