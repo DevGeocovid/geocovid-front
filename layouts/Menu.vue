@@ -5,7 +5,6 @@
       color="#181B34"
       dark
       elevate-on-scroll
-      scroll-target="#scrolling-techniques-7"
       v-if="$vuetify.breakpoint.xs"
     >
       <v-app-bar-nav-icon @click="drawer = true" />

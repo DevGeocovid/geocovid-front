@@ -407,7 +407,7 @@
 
 <script>
 export default {
-  name: 'Sobre',
+  name: 'About',
 }
 </script>
 

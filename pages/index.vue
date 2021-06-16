@@ -1,8 +1,18 @@
 <template>
-  <v-row xs12 :style="$vuetify.breakpoint.xs ? 'padding-top:60px;' : ''">
+  <v-row xs12 :style="$vuetify.breakpoint.xs ? 'padding-top: 60px;' : ''">
+    <v-col :cols="$vuetify.breakpoint.xs ? '12' : '10'" class="mx-auto">
+      <div id="titulo-carrossel" class="mx-auto">
+        <div class="d-flex justify-center primary rounded-lg px-12 mt-4 py-1">
+          <span class="title white--text">NOTÍCIAS</span>
+        </div>
+      </div>
+      <Carousel />
+    </v-col>
+
     <v-col id="espacamento-topo" :cols="$vuetify.breakpoint.xs ? '12' : '8'">
       <Map />
     </v-col>
+
     <v-col class="pt-6">
       <v-row>
         <v-col class="mx-3" id="espacamento-topo">
@@ -46,14 +56,6 @@
         </v-col>
       </v-row>
     </v-col>
-    <v-col :cols="$vuetify.breakpoint.xs ? '12' : '10'"
-    class="mx-auto">
-      <div id="titulo" class="mx-auto">
-        <div class="d-flex justify-center primary rounded-lg px-12 mt-4 py-1" style="position:;">
-        <span class="title white--text">NOTÍCIAS</span></div>
-      </div>
-      <Carrossel />
-    </v-col>
   </v-row>
 </template>
 
@@ -95,10 +97,15 @@ export default {
 </script>
 
 <style>
-#espacamento-topo{
+#titulo-carrossel {
+  margin-bottom: 38px;
+  width: 200px;
+  text-align: center;
+}
+#espacamento-topo {
   margin-top: 20px;
 }
-#informacao-dos-dados{
+#informacao-dos-dados {
   margin-top: 30px;
 }
 </style>

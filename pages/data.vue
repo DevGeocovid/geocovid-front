@@ -1,196 +1,223 @@
 <template>
-<center>
-  <div class="container">
-    <div class="cabecalho">
-      <p class="informacao"></p>
-      <h1 class="titulo">Estes são os dados gerados pelo projeto</h1>
+  <center>
+    <div class="container">
+      <div class="cabecalho">
+        <p class="informacao"></p>
+        <h1 class="titulo">Estes são os dados gerados pelo projeto</h1>
       </div>
       <div class="corpo">
-      <p class="texto">Veja um Vídeo Timelapse com os Mapas Diários e os Mapas com Total de Casos Acumulados e Densidade por mil habitantes no ES entre 03/01/2020 e 31/01/2021:</p>
-      <div class="instagram-frame">
-        <iframe class="frame" width="720" height="720" src="https://www.instagram.com/p/CN3KGO-rVQ9/embed" frameborder="0"></iframe>
+        <p class="texto">
+          Veja um Vídeo Timelapse com os Mapas Diários e os Mapas com Total de
+          Casos Acumulados e Densidade por mil habitantes no ES entre 03/01/2020
+          e 31/01/2021:
+        </p>
+        <div class="instagram-frame">
+          <iframe
+            title="Vídeo Timelapse com os Mapas Diários e os Mapas com Total de
+          Casos Acumulados e Densidade por mil habitantes no ES entre 03/01/2020
+          e 31/01/2021"
+            class="frame"
+            width="720"
+            height="720"
+            src="https://www.instagram.com/p/CN3KGO-rVQ9/embed"
+          ></iframe>
+        </div>
+        <h3 class="titulo-02">Arquivos dos mapas:</h3>
+        <div class="container">
+          <a
+            class="drive"
+            href="https://drive.google.com/drive/folders/1pvCMcRhiO9186Ie3unkqtZXbaJnz9Ch9?usp=sharing"
+            target="_blank"
+          >
+            <img
+              src="https://image.flaticon.com/icons/svg/716/716784.svg"
+              alt="Pasta"
+            />
+            <br />
+            <h5>MAPAS</h5>
+          </a>
+          <a
+            class="drive"
+            href="https://drive.google.com/drive/folders/1WrSIYTsicmO8uuWM5mx-posp5EaeVc4W?usp=sharing"
+            target="_blank"
+          >
+            <img
+              src="https://image.flaticon.com/icons/svg/716/716784.svg"
+              alt="Pasta"
+            />
+            <br />
+            <h5>PLANILHAS</h5>
+          </a>
+        </div>
       </div>
-      <h3 class="titulo-02">Arquivos dos mapas:</h3>
-      <div class="container">
-        <a class="drive" href="https://drive.google.com/drive/folders/1pvCMcRhiO9186Ie3unkqtZXbaJnz9Ch9?usp=sharing" target="_blank">
-          <img src="https://image.flaticon.com/icons/svg/716/716784.svg" alt="Pasta">
-          <br>
-          <h5>MAPAS</h5>
-        </a>
-        <a class="drive" href="https://drive.google.com/drive/folders/1WrSIYTsicmO8uuWM5mx-posp5EaeVc4W?usp=sharing" target="_blank">
-          <img src="https://image.flaticon.com/icons/svg/716/716784.svg" alt="Pasta">
-          <br>
-          <h5>PLANILHAS</h5>
-        </a>
-      </div>
-    </div> 
-  </div>
-</center>
+    </div>
+  </center>
 </template>
 
 <script>
 </script>
 
 <style>
-.drive{
-  display:inline-block;
+.drive {
+  display: inline-block;
   text-decoration: none;
   margin: 10px;
   margin-right: 30px;
-  
+
   width: 10%;
 }
-.informacao{
+.informacao {
   font-weight: 400;
 }
-.titulo, .titulo-02{
-  color: #181B34;
+.titulo,
+.titulo-02 {
+  color: #181b34;
 }
-.share{
+.share {
   margin-top: -10px;
   font-weight: 500;
 }
-.redes-sociais{
+.redes-sociais {
   display: inline-block;
   margin: 0;
   padding-right: 5px;
 }
-.instagram-frame{
+.instagram-frame {
   font-size: 20px;
   font-weight: 600;
   text-align: center;
-  color: #181B34;
+  color: #181b34;
   margin-top: 50px;
   margin-bottom: 50px;
 }
-.frame{
+.frame {
   width: 720px;
   max-height: 720px;
-  border: .1px solid #181B34;
+  border: 0.1px solid #181b34;
   border-radius: 10px;
   padding: 5px;
   margin-top: 10px;
 }
-.links{
-  color: #181B34;
+.links {
+  color: #181b34;
   font-weight: 600;
   text-decoration: none;
 }
 /**MOBILE PORTRAIT**/
-@media (min-width: 320px) and (max-width: 720px){
-  .frame{
+@media (min-width: 320px) and (max-width: 720px) {
+  .frame {
     width: 100%;
     max-height: 575px;
   }
 }
-@media (min-width: 320px){
-  .cabecalho{
+@media (min-width: 320px) {
+  .cabecalho {
     margin-top: 75px;
     text-align: left;
   }
-  .titulo{
+  .titulo {
     margin-bottom: 50px;
   }
-  .texto{
+  .texto {
     font-size: 20px;
     margin-bottom: 50px;
     letter-spacing: 0.01rem;
   }
-  .foto{
+  .foto {
     margin-top: 25px;
     margin-bottom: 25px;
   }
-  .corpo{
+  .corpo {
     text-align: left;
   }
-  .titulo{
+  .titulo {
     font-size: 40px;
     line-height: 2.8rem;
     letter-spacing: 0.02rem;
     margin-bottom: 50px;
   }
-  .titulo-02{
+  .titulo-02 {
     margin-top: 25px;
     margin-bottom: 25px;
   }
-  .foto{
+  .foto {
     margin-top: 25px;
     margin-bottom: 25px;
-    width:98%;
+    width: 98%;
   }
 }
-  /**MOBILE LANDSCAPE**/
-  @media (min-height: 320px) and (orientation: landscape){
-  .cabecalho{
+/**MOBILE LANDSCAPE**/
+@media (min-height: 320px) and (orientation: landscape) {
+  .cabecalho {
     width: 90%;
   }
-  .corpo{
+  .corpo {
     width: 85%;
   }
-  .titulo{
+  .titulo {
     font-size: 40px;
     line-height: 2.8rem;
     letter-spacing: 0.02rem;
     margin-bottom: 50px;
   }
-  .foto{
+  .foto {
     margin-top: 25px;
     margin-bottom: 25px;
-    width:90%;
+    width: 90%;
   }
-  .frame{
+  .frame {
     width: 100%;
     max-height: 720px;
   }
 }
 /**PC 720p**/
-@media (min-width: 1024px) and (max-width: 1600px){
+@media (min-width: 1024px) and (max-width: 1600px) {
   .container {
     max-width: 900px !important;
   }
-  .frame{
+  .frame {
     width: 100%;
     max-height: 720px !important;
   }
 }
 /**PC 1080p**/
-@media (min-width: 1920px){
-  .cabecalho{
+@media (min-width: 1920px) {
+  .cabecalho {
     width: 50%;
     margin-bottom: 50px;
     text-align: left;
   }
-  .titulo{
+  .titulo {
     font-size: 58px;
     line-height: 3.8rem;
     letter-spacing: 0.02rem;
     margin-bottom: 50px;
-    color: #181B34;
+    color: #181b34;
   }
-  .texto{
+  .texto {
     font-size: 20px;
     letter-spacing: 0.06rem;
     margin-bottom: 50px;
   }
-  .compartilhar{
+  .compartilhar {
     padding: 5px;
   }
-  .share{
+  .share {
     padding: 2px;
   }
-  .corpo{
+  .corpo {
     width: 40%;
     text-align: left;
   }
-  .foto{
+  .foto {
     margin-top: 25px;
     margin-bottom: 25px;
-    width:80%;
+    width: 80%;
   }
-  .titulo-02{
+  .titulo-02 {
     margin-top: 25px;
     margin-bottom: 25px;
-    color: #181B34;
+    color: #181b34;
   }
 }
 </style>
