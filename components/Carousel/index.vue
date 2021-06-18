@@ -31,7 +31,7 @@ export default {
       titles: [
         'Timelapse: Casos de mortes pela Covid-19 no ES em 1 ano',
         'ES começa a testar passageiros para Covid-19 no Aeroporto de Vitória',
-        '934 pessoas usaram documentos de mortos nem vacinação no ES',
+        '934 pessoas usaram documentos de mortos em vacinação no ES',
         'Quando o ES sentirá os efeitos da imunidade coletiva?',
         'Brasil lidera mortes diárias por Covid-19 no mundo em março',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
