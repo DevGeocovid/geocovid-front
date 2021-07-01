@@ -30,8 +30,8 @@ export default {
 
       titles: [
         'Timelapse: Casos de mortes pela Covid-19 no ES em 1 ano',
+        'Em nova atualização, Vitória está em risco baixo para Covid-19',
         'Covid: cidade do ES vacina moradores de 35 anos para não perder doses',
-        'ES antecipa vacinação de 2ª dose e notifica testes positivos por SMS',
         '934 pessoas usaram documentos de mortos em vacinação no ES',
         'Brasil lidera mortes diárias por Covid-19 no mundo em março',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
