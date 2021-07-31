@@ -30,8 +30,9 @@ export default {
 
       titles: [
         'Timelapse: Casos de mortes pela Covid-19 no ES em 1 ano',
-        'Covid: cidade do ES vacina moradores de 35 anos para não perder doses',
-        'ES antecipa vacinação de 2ª dose e notifica testes positivos por SMS',
+        'Vila Velha é a cidade que mais aplicou a primeira dose da vacina no ES',
+        'Veja quais municípios vão aderir ao aplicativo para agendar vacina no ES',
+        'Em nova atualização, Vitória está em risco baixo para Covid-19',
         '934 pessoas usaram documentos de mortos em vacinação no ES',
         'Brasil lidera mortes diárias por Covid-19 no mundo em março',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
