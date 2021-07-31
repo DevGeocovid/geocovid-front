@@ -11,6 +11,12 @@
 
     <v-col id="espacamento-topo" :cols="$vuetify.breakpoint.xs ? '12' : '8'">
       <Map />
+
+      <div class="mt-1 d-flex justify-end">
+        <h6 id="informacao-do-mapa">
+          Mapa gerado pelo projeto. Atualizado em 24/02/2021.
+        </h6>
+      </div>
     </v-col>
 
     <v-col class="pt-6">
@@ -113,5 +119,8 @@ export default {
 }
 #informacao-dos-dados {
   margin-top: 30px;
+}
+#informacao-do-mapa{
+  margin-top: 10px;
 }
 </style>
