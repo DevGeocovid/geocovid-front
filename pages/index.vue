@@ -49,8 +49,14 @@
           </v-row>
           <div class="mt-1 d-flex justify-end">
             <h6 id="informacao-dos-dados">
-              Dados atualizados até o dia
+              Dados atualizados em
               {{ informations.date_register | formatDateTime }}
+              . Fonte:
+              <a
+                href="https://coronavirus.es.gov.br/painel-covid-19-es"
+                target="_blank"
+                >Painel Covid19 ES</a
+              >.
             </h6>
           </div>
         </v-col>
