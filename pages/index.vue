@@ -55,14 +55,16 @@
           </v-row>
           <div class="mt-1 d-flex justify-end">
             <h6 id="informacao-dos-dados">
-              Dados atualizados em
-              {{ informations.date_register | formatDateTime }}
-              . Fonte:
+              Dados obtidos do
               <a
                 href="https://coronavirus.es.gov.br/painel-covid-19-es"
                 target="_blank"
-                >Painel Covid19 ES</a
-              >.
+              >
+                Painel Covid19 ES</a
+              >
+              em
+              {{ informations.date_register | formatDateTime }}
+              .
             </h6>
           </div>
         </v-col>
@@ -120,7 +122,7 @@ export default {
 #informacao-dos-dados {
   margin-top: 30px;
 }
-#informacao-do-mapa{
+#informacao-do-mapa {
   margin-top: 10px;
 }
 </style>
