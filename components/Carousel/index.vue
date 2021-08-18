@@ -29,7 +29,7 @@ export default {
         'https://bn1304files.storage.live.com/y4msLbTAx_Kl9KtXDT2EkixqNbUtlWY1veU5Vy773q080HeS6ZZ3HVKro19IFXPbNhk2jTkcYAE9I1JVx78AnQWKCVLRG09dbBXZkozJV3YE98w4fDlyCDlQZMNcpZ-9GsUOh_YCVfOanDPf0dcx5VsWjvWQGtJkFpawof_SGN7lYfm6jEbydDMCb5RC9Yp4U_O?width=1300&height=600&cropmode=none',
 
       titles: [
-        'Timelapse: Casos de mortes pela Covid-19 no ES em 1 ano',
+        'Veja todos os mapas gerados pelo Projeto GeoCovid ES',
         'Vila Velha é a cidade que mais aplicou a primeira dose da vacina no ES',
         'Veja quais municípios vão aderir ao aplicativo para agendar vacina no ES',
         'Em nova atualização, Vitória está em risco baixo para Covid-19',
