@@ -30,9 +30,8 @@ export default {
 
       titles: [
         'Veja todos os mapas gerados pelo Projeto GeoCovid ES',
-        'Vila Velha é a cidade que mais aplicou a primeira dose da vacina no ES',
-        'Veja quais municípios vão aderir ao aplicativo para agendar vacina no ES',
-        'Em nova atualização, Vitória está em risco baixo para Covid-19',
+        'Criminosos invadem unidade de saúde e roubam testes de Covid-19 no ES',
+        'Covid: Como o ES voltou a ter só duas cidades em risco moderado',
         '934 pessoas usaram documentos de mortos em vacinação no ES',
         'Brasil lidera mortes diárias por Covid-19 no mundo em março',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
