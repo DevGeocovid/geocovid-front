@@ -11,6 +11,12 @@
 
     <v-col id="espacamento-topo" :cols="$vuetify.breakpoint.xs ? '12' : '8'">
       <Map />
+
+      <div class="mt-1 d-flex justify-end">
+        <h6 id="informacao-do-mapa">
+          Mapa gerado pelo projeto. Atualizado em 18/08/2021.
+        </h6>
+      </div>
     </v-col>
 
     <v-col class="pt-6">
@@ -49,8 +55,16 @@
           </v-row>
           <div class="mt-1 d-flex justify-end">
             <h6 id="informacao-dos-dados">
-              Dados atualizados até o dia
+              Dados obtidos do
+              <a
+                href="https://coronavirus.es.gov.br/painel-covid-19-es"
+                target="_blank"
+              >
+                Painel Covid19 ES</a
+              >
+              em
               {{ informations.date_register | formatDateTime }}
+              .
             </h6>
           </div>
         </v-col>
@@ -107,5 +121,8 @@ export default {
 }
 #informacao-dos-dados {
   margin-top: 30px;
+}
+#informacao-do-mapa {
+  margin-top: 10px;
 }
 </style>
