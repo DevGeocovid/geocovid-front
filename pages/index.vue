@@ -14,7 +14,7 @@
 
       <div class="mt-1 d-flex justify-end">
         <h6 id="informacao-do-mapa">
-          Mapa gerado pelo projeto. Atualizado em 24/02/2021.
+          Mapa gerado pelo projeto. Atualizado em 18/08/2021.
         </h6>
       </div>
     </v-col>
