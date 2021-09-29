@@ -30,10 +30,9 @@ export default {
 
       titles: [
         'Veja todos os mapas gerados pelo Projeto GeoCovid ES',
-        'Criminosos invadem unidade de saúde e roubam testes de Covid-19 no ES',
-        'Covid: Como o ES voltou a ter só duas cidades em risco moderado',
-        '934 pessoas usaram documentos de mortos em vacinação no ES',
-        'Brasil lidera mortes diárias por Covid-19 no mundo em março',
+        'ES vai decidir se vacina da covid-19 será obrigatória nas escolas em 2022',
+        'Covid: Vitória abre agendamento para adolescentes, 2ª dose e dose de reforço',
+        'ES chega a 12.539 mortes e 584.280 casos confirmados de Covid-19',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
       ],
     }
