@@ -30,11 +30,9 @@ export default {
 
       titles: [
         'Veja todos os mapas gerados pelo Projeto GeoCovid ES',
-        'Vila Velha é a cidade que mais aplicou a primeira dose da vacina no ES',
-        'Veja quais municípios vão aderir ao aplicativo para agendar vacina no ES',
-        'Em nova atualização, Vitória está em risco baixo para Covid-19',
-        '934 pessoas usaram documentos de mortos em vacinação no ES',
-        'Brasil lidera mortes diárias por Covid-19 no mundo em março',
+        'ES vai decidir se vacina da covid-19 será obrigatória nas escolas em 2022',
+        'Covid: Vitória abre agendamento para adolescentes, 2ª dose e dose de reforço',
+        'ES chega a 12.539 mortes e 584.280 casos confirmados de Covid-19',
         'Retrospestiva de 2020 dos casos de Covid-19 no ES',
       ],
     }
