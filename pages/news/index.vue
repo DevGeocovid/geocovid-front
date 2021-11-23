@@ -36,32 +36,20 @@
 </template>
 
 <script>
+import all_news from 'assets/all_news.json'
+
 export default {
   name: 'NewsPage',
   data() {
     return {
       error: false,
-      loaded: false,
+      loaded: true,
       img: 'https://bn1304files.storage.live.com/y4msLbTAx_Kl9KtXDT2EkixqNbUtlWY1veU5Vy773q080HeS6ZZ3HVKro19IFXPbNhk2jTkcYAE9I1JVx78AnQWKCVLRG09dbBXZkozJV3YE98w4fDlyCDlQZMNcpZ-9GsUOh_YCVfOanDPf0dcx5VsWjvWQGtJkFpawof_SGN7lYfm6jEbydDMCb5RC9Yp4U_O?width=1300&height=600&cropmode=none',
-      allNews: [],
+      allNews: all_news.news,
     }
   },
-  mounted() {
-    this.getNews()
-  },
-  methods: {
-    async getNews() {
-      try {
-        const data = await this.$axios.$get(
-          'https://raw.githubusercontent.com/DevGeocovid/site-data/master/news.json'
-        )
-        Object.assign(this.allNews, data.news)
-      } catch (e) {
-        this.error = true
-      }
-      this.loaded = true
-    },
-  },
+  mounted() {},
+  methods: {},
 }
 </script>
 
